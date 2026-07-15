@@ -15,13 +15,31 @@
   "id": 3,
   "artist": "Stan Kenton",
   "album": "City of Glass",
-  "meta": null
+  "meta": {
+   "year": "1952",
+   "label": "Capitol Records",
+   "catno": "EBF-353",
+   "format": "Box Set",
+   "country": "US",
+   "cover": "https://i.discogs.com/X2i3zocBbO4XbN5driNXFfTaXQLnx0rTTJs5iUbaLBo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTU4/MzUzLTE2NjQxMDE4/ODUtMTc3MC5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/24558353-Stan-Kenton-City-Of-Glass",
+   "source": "Discogs"
+  }
  },
  {
   "id": 4,
   "artist": "Charles Mingus & Spaulding Givens",
   "album": "Strings & Keys",
-  "meta": null
+  "meta": {
+   "year": "1953",
+   "label": "Debut Records",
+   "catno": "DLP-1",
+   "format": "Vinyl, LP, 10\", Album",
+   "country": "US",
+   "cover": "https://i.discogs.com/4Q95yRr5oMuMO6WfOR20TbUSeLxY5-ABckTww45xO4I/rs:fit/g:sm/q:90/h:452/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTc2/OTgtMTM1NzQzODE2/My03ODgzLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/4157698-Strings-And-Keys-Strings-And-Keys",
+   "source": "Discogs"
+  }
  },
  {
   "id": 5,
@@ -33,49 +51,121 @@
   "id": 6,
   "artist": "Le Sun-Ra and His Arkistra",
   "album": "\"Saturn\"/\"Call For All Demons\"",
-  "meta": null
+  "meta": {
+   "year": "2011",
+   "label": "All City Records (3)",
+   "catno": "ACSR12X1",
+   "format": "Vinyl, 12\", 33 ⅓ RPM",
+   "country": "Ireland",
+   "cover": "https://i.discogs.com/3hStPVQVR6g6iiLJ7QgjYsxiQ1QMxYZwHU065j51tUY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODE3/NzQtMTU5MDMxNTk2/Ny01NzIxLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/2981774-Ras_G-The-ASP-Sun-Ra-Views-Of-Saturn-Vol1",
+   "source": "Discogs"
+  }
  },
  {
   "id": 7,
   "artist": "Cecil Taylor",
   "album": "Jazz Advance",
-  "meta": null
+  "meta": {
+   "year": "1976",
+   "label": "Blue Note",
+   "catno": "LNJ-70072",
+   "format": "Vinyl, LP, Album, Promo, Reissue",
+   "country": "Japan",
+   "cover": "https://i.discogs.com/5rR4QcPZhzEsGGuBScu26GtPAsco2AorbnZEiBN6qCc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjg4/NTc4LTE1NzE1MTYz/MzAtNDAwMC5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/14288578-Cecil-Taylor-Jazz-Advance",
+   "source": "Discogs"
+  }
  },
  {
   "id": 8,
   "artist": "Albert Ayler",
   "album": "Spiritual Unity",
-  "meta": null
+  "meta": {
+   "year": "1965",
+   "label": "ESP-Disk'",
+   "catno": "1002",
+   "format": "Vinyl, LP, Album, Reissue, Mono",
+   "country": "US",
+   "cover": "https://i.discogs.com/FuVdlYAj_a3EoBrqeDtBRO6Ph2omg4RIfrufTb8mYtI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDEy/OTQtMTM2MjM1OTI1/My0zNDg5LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1141294-Albert-Ayler-Trio-Spiritual-Unity",
+   "source": "Discogs"
+  }
  },
  {
   "id": 9,
   "artist": "Eric Dolphy & Ron Carter",
   "album": "Esoteric Sound Studios Acetate",
-  "meta": null
+  "meta": {
+   "year": "1960",
+   "label": "Esoteric Sound Studios",
+   "catno": "none",
+   "format": "Acetate, LP",
+   "country": "US",
+   "cover": "https://i.discogs.com/Fbfbsj7ceE-G_FbWOWqcwrhm4c3xHMzkl5GxWACMKoE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTU2/OTYtMTQ2Mzk1NDky/Ni02MzQyLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/8555696-Eric-Dolphy-Ron-Carter-Untitled",
+   "source": "Discogs"
+  }
  },
  {
   "id": 10,
   "artist": "Ornette Coleman Double Quartet",
   "album": "Free Jazz",
-  "meta": null
+  "meta": {
+   "year": "1961",
+   "label": "Atlantic",
+   "catno": "1364",
+   "format": "Vinyl, LP, Single Sided, Album, Test Pressing, Stereo",
+   "country": "US",
+   "cover": "https://i.discogs.com/N0Pidt1FhYjikOvG3btKA4UMUwC0qiYAX4zCR35F0So/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQ0/MTgwLTE1NzA2MTQx/MjYtNTExMi5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/14244180-The-Ornette-Coleman-Double-Quartet-Free-Jazz",
+   "source": "Discogs"
+  }
  },
  {
   "id": 11,
   "artist": "Jimmy Giufffre",
   "album": "Free Fall",
-  "meta": null
+  "meta": {
+   "year": "1963",
+   "label": "Columbia",
+   "catno": "CS 8764",
+   "format": "Vinyl, LP, Album, Stereo",
+   "country": "US",
+   "cover": "https://i.discogs.com/4vBZqX_sg_mn9dTFPMPfrbEWcTJMCrvWUZxr_8brO7E/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjAw/NzMtMTQzMzQ1OTcx/OS01OTczLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/4720073-Jimmy-Giuffre-Free-Fall",
+   "source": "Discogs"
+  }
  },
  {
   "id": 12,
   "artist": "Giorgio Gaslini",
   "album": "Oltre",
-  "meta": null
+  "meta": {
+   "year": "1963",
+   "label": "La Voce Del Padrone",
+   "catno": "QELP 8086",
+   "format": "Vinyl, LP, Album, Mono",
+   "country": "Italy",
+   "cover": "https://i.discogs.com/EJtNax9JdiayRRm2a1XkcPt-P99Ruop5eBqv8TYsBgs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMDYx/OTYtMTUwNDEzNjAz/Ni01NTk2LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/9106196-Giorgio-Gaslini-Oltre",
+   "source": "Discogs"
+  }
  },
  {
   "id": 13,
   "artist": "Prince Lasha/Sonny Simmons/Clifford Jordan/Don Cherry",
   "album": "It Is Revealed",
-  "meta": null
+  "meta": {
+   "year": "1963",
+   "label": "Zounds (2)",
+   "catno": "L-71863",
+   "format": "Vinyl, LP, Album, Limited Edition",
+   "country": "US",
+   "cover": "https://i.discogs.com/EPg39wvhVsda6k_vLcwZ7PZQIoiUcfDbJcIsP8rkrbM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzEw/MjItMTU1NTk4MTc5/Ni0yNzgxLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/2571022-Prince-Lasha-Sonny-Simmons-Clifford-Jordan-Don-Cherry-It-Is-Revealed",
+   "source": "Discogs"
+  }
  },
  {
   "id": 14,
@@ -87,247 +177,616 @@
   "id": 15,
   "artist": "Sonny Rollins",
   "album": "Our Man In Jazz",
-  "meta": null
+  "meta": {
+   "year": "1963",
+   "label": "RCA Victor",
+   "catno": "LPM-2612",
+   "format": "Vinyl, LP, Mono, Album",
+   "country": "Canada",
+   "cover": "https://i.discogs.com/aKIAaZvbPSCwZyimg7u6ZiRvFULgI_SLWLD8sC41px4/rs:fit/g:sm/q:90/h:509/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTAw/MTYtMTMzNjUxODM3/NC02NDAzLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/2210016-Sonny-Rollins-Our-Man-In-Jazz",
+   "source": "Discogs"
+  }
  },
  {
   "id": 16,
   "artist": "New York Contemporary Five",
   "album": "Recorded 'Live' At Jazzhus Montmartre Vol. 1",
-  "meta": null
+  "meta": {
+   "year": "2020",
+   "label": "Storyville",
+   "catno": "601701 0",
+   "format": "Vinyl, LP, Album, Reissue, Remastered",
+   "country": "Europe",
+   "cover": "https://i.discogs.com/9pQWxR0Z731sEh3zMhQiMrDFmFhoF1Dh8rsjn-wmqqQ/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgz/NjU4LTE2MjYyNzU3/OTMtMTUzOC5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/15583658-Archie-Shepp-The-New-York-Contemporary-Five-Vol-2",
+   "source": "Discogs"
+  }
  },
  {
   "id": 17,
   "artist": "New York Contemporary Five",
   "album": "Recorded 'Live' At Jazzhus Montmartre Vol. 2",
-  "meta": null
+  "meta": {
+   "year": "2020",
+   "label": "Storyville",
+   "catno": "601701 0",
+   "format": "Vinyl, LP, Album, Reissue, Remastered",
+   "country": "Europe",
+   "cover": "https://i.discogs.com/9pQWxR0Z731sEh3zMhQiMrDFmFhoF1Dh8rsjn-wmqqQ/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgz/NjU4LTE2MjYyNzU3/OTMtMTUzOC5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/15583658-Archie-Shepp-The-New-York-Contemporary-Five-Vol-2",
+   "source": "Discogs"
+  }
  },
  {
   "id": 18,
   "artist": "Bengt Nordstrom",
   "album": "Natural Music",
-  "meta": null
+  "meta": {
+   "year": "1968",
+   "label": "Bird Notes",
+   "catno": "BNLP 2 - 8A/8C",
+   "format": "Vinyl, LP, Album, Mono",
+   "country": "Sweden",
+   "cover": "https://i.discogs.com/LzCcDyRU_EraSq6OPKU9P6xoYEHklxZJ76NfSj-Dfh0/rs:fit/g:sm/q:90/h:320/w:313/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTk0/MjctMTI1ODkwNjA0/OS5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/2019427-Bengt-Nordström-Natural-Music",
+   "source": "Discogs"
+  }
  },
  {
   "id": 19,
   "artist": "Paul Bley Quintet",
   "album": "Barrage",
-  "meta": null
+  "meta": {
+   "year": "1965",
+   "label": "ESP-Disk'",
+   "catno": "1008",
+   "format": "Vinyl, LP, Album, Repress",
+   "country": "US",
+   "cover": "https://i.discogs.com/FxHPyAlm4RP-PTH9UqqjbRpOsl1PgDS1db3LhKKbiJA/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzQw/NjUtMTcxMzcwMDg2/Ni01MTgyLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/2174065-Paul-Bley-Quintet-Barrage",
+   "source": "Discogs"
+  }
  },
  {
   "id": 20,
   "artist": "The Contemporary Jazz Quintet",
   "album": "Action",
-  "meta": null
+  "meta": {
+   "year": "2000",
+   "label": "Columbia",
+   "catno": "SM 2031-05",
+   "format": "CD, Album, Remastered",
+   "country": "Denmark",
+   "cover": "https://i.discogs.com/9OMFrFefKKsTy0GINfAK1VfYxbjpQGa0ejM5ZG3OMWA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzI4/OTY0LTE2NjE1OTEy/NzMtNTg1NS5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/24328964-The-Contemporary-Jazz-Quintet-Actions-1966-67",
+   "source": "Discogs"
+  }
  },
  {
   "id": 21,
   "artist": "Sunny Murray",
   "album": "Sonny's Time Now",
-  "meta": null
+  "meta": {
+   "year": "1965",
+   "label": "Jihad Productions",
+   "catno": "Jihad 663",
+   "format": "Vinyl, LP, Album",
+   "country": "US",
+   "cover": "https://i.discogs.com/EaZXQHBiYt05LReqBTxwoFa1ChBtj5tef3diAGB848k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzI5/NDAtMTIyNjU2NTE2/My5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/1532940-Sonny-Murray-Sonnys-Time-Now",
+   "source": "Discogs"
+  }
  },
  {
   "id": 22,
   "artist": "New York Art Quartet",
   "album": "New York Art Quartet",
-  "meta": null
+  "meta": {
+   "year": "1965",
+   "label": "ESP-Disk'",
+   "catno": "1004",
+   "format": "Vinyl, LP, Album, Promo, Stereo",
+   "country": "US",
+   "cover": "https://i.discogs.com/7Gn2BsiyuVF3irgQyS0gQLmtizFuBuMJudDXjW13sCY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODk1/NjktMTQyODg0NzQz/OC01MDk3LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/6889569-New-York-Art-Quartet-New-York-Art-Quartet",
+   "source": "Discogs"
+  }
  },
  {
   "id": 23,
   "artist": "François Tusques",
   "album": "Free Jazz",
-  "meta": null
+  "meta": {
+   "year": "1965",
+   "label": "Disques Mouloudji",
+   "catno": "EM 13507 S",
+   "format": "Vinyl, LP",
+   "country": "France",
+   "cover": "https://i.discogs.com/vvW95UgoGoWd2_0jWuOE-7x3BfJfLH6JD0qiC7fjn6Q/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzMz/NjUtMTM1NTAyNDc3/OC00OTkwLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/2033365-François-Tusques-Free-Jazz",
+   "source": "Discogs"
+  }
  },
  {
   "id": 24,
   "artist": "John Coltrane",
   "album": "Meditations",
-  "meta": null
+  "meta": {
+   "year": "1968",
+   "label": "Impulse!",
+   "catno": "A-9110",
+   "format": "Vinyl, LP, Album, Stereo",
+   "country": "France",
+   "cover": "https://i.discogs.com/I4qirW0eWpK5yL5mPxNg9eVCGOFLSwAWgYxSwXt_QCQ/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTAy/MDQyLTE1NDg1OTYy/MjktODY2My5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/13102042-John-Coltrane-Meditations",
+   "source": "Discogs"
+  }
  },
  {
   "id": 25,
   "artist": "Sun Ra and His Myth Arkestra",
   "album": "When Angels Speak of Love",
-  "meta": null
+  "meta": {
+   "year": "1966",
+   "label": "El Saturn Records",
+   "catno": "LP 1966",
+   "format": "Vinyl, LP, Album, Mono",
+   "country": "US",
+   "cover": "https://i.discogs.com/Y200MJWbKu6wgFtKLZxDmwthXcMXRZcy3pzcpd6x0_U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjkw/MDAtMTQzMjk5MDAz/OC02NjE2LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/7069000-Sun-Ra-And-His-Myth-Science-Arkestra-When-Angels-Speak-Of-Love",
+   "source": "Discogs"
+  }
  },
  {
   "id": 26,
   "artist": "Roscoe Mitchell",
   "album": "Sound",
-  "meta": null
+  "meta": {
+   "year": "1966",
+   "label": "Delmark Records",
+   "catno": "DL 408",
+   "format": "Vinyl, LP, Album, Mono",
+   "country": "UK",
+   "cover": "https://i.discogs.com/MlO6fdbN544tVFqbKnnvVxMX7J1D9EWE_GHFdYgj7Pw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTcz/OTgtMTQxNDI1MDA5/OC02NDUxLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/3097398-Roscoe-Mitchell-Sextet-Sound",
+   "source": "Discogs"
+  }
  },
  {
   "id": 27,
   "artist": "Don Pullen & Milford Graves",
   "album": "In Concert At Yale University",
-  "meta": null
+  "meta": {
+   "year": "1966",
+   "label": "SRP Records (3)",
+   "catno": "PG-286",
+   "format": "Vinyl, LP, Limited Edition",
+   "country": "US",
+   "cover": "https://i.discogs.com/2jpNj-ZMFQ6Hq-MYj2Lt5wu-2ylEurSGW5sb3W4ATKA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDgz/NDEtMTU1NzYwNDU1/MC0zOTg0LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/5408341-Don-Pullen-Milford-Graves-In-Concert-At-Yale-University",
+   "source": "Discogs"
+  }
  },
  {
   "id": 28,
   "artist": "Hugh Steinmetz",
   "album": "Nu!",
-  "meta": null
+  "meta": {
+   "year": "1966",
+   "label": "Debut Records (3)",
+   "catno": "DEB 1148",
+   "format": "Vinyl, LP, Album, Stereo",
+   "country": "Denmark",
+   "cover": "https://i.discogs.com/-F7fUcpKznAhSeYrsU9YWA_Nd9qTW0mSW8Wd3wmQoME/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTk4/MjctMTI5MDQ0Njg0/Ny5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/2559827-Hugh-Steinmetz-Nu",
+   "source": "Discogs"
+  }
  },
  {
   "id": 29,
   "artist": "Patty Waters",
   "album": "College Tour",
-  "meta": null
+  "meta": {
+   "year": "1966",
+   "label": "ESP-Disk'",
+   "catno": "1055",
+   "format": "Vinyl, LP, Album",
+   "country": "US",
+   "cover": "https://i.discogs.com/qr4UoGTsgNamMBtaxR3khDnAcJLy3Idja0xWYBv0T-4/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTk2/NzAtMTYwMjYyODQz/Mi0yNzE4LnBuZw.jpeg",
+   "url": "https://www.discogs.com/release/2659670-Patty-Waters-College-Tour",
+   "source": "Discogs"
+  }
  },
  {
   "id": 30,
   "artist": "Barney Wilen",
   "album": "Zodiac",
-  "meta": null
+  "meta": {
+   "year": "1966",
+   "label": "Disques Vogue",
+   "catno": "CLVLX 91 30",
+   "format": "Vinyl, LP, Album",
+   "country": "France",
+   "cover": "https://i.discogs.com/hk6OB7UPjWNmNvU4Yp_sTK61lvd_Nrv4Dw4CxXJAG74/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzAw/ODYtMTQ2MzQxMzg1/MS05ODIxLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1630086-Barney-Wilen-Zodiac",
+   "source": "Discogs"
+  }
  },
  {
   "id": 31,
   "artist": "Don Cherry",
   "album": "Where Is Brooklyn?",
-  "meta": null
+  "meta": {
+   "year": "1969",
+   "label": "Blue Note",
+   "catno": "BST 84311 K",
+   "format": "Vinyl, LP, Album",
+   "country": "Germany",
+   "cover": "https://i.discogs.com/GrCCsOHdB_2d3YQe23OoKNolH82FH8pQyymkzCEhEYU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njc5/NzYtMTUwODUxMDIx/NS0zNTUyLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/6567976-Don-Cherry-Where-Is-Brooklyn",
+   "source": "Discogs"
+  }
  },
  {
   "id": 32,
   "artist": "Gato Barbieri",
   "album": "In Search of the Mystery",
-  "meta": null
+  "meta": {
+   "year": "1967",
+   "label": "ESP-Disk'",
+   "catno": "ESP 1049",
+   "format": "Vinyl, LP, Album, Test Pressing, White Label, Stereo",
+   "country": "US",
+   "cover": "https://i.discogs.com/uBKzUKJSqx590er5AR21-HqWh9Vu4XJKMRqdRTvq6CY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTE4/MDE4LTE2ODI3NTIx/NjQtNTk2OS5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/26918018-Gato-Barbieri-Quartet-In-Search-Of-The-Mystery",
+   "source": "Discogs"
+  }
  },
  {
   "id": 33,
   "artist": "Steve Lacy",
   "album": "The Forest and the Zoo",
-  "meta": null
+  "meta": {
+   "year": "1967",
+   "label": "ESP-Disk'",
+   "catno": "ESP 1060",
+   "format": "Vinyl, LP, Album",
+   "country": "US",
+   "cover": "https://i.discogs.com/vseIRZqw2h8Gn_2FmOJDuI4oA2uuFVC3Nx2haw2OD3g/rs:fit/g:sm/q:90/h:597/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDUx/NjgtMTI1MTQ3NzI2/MS5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/1905168-Steve-Lacy-The-Forest-And-The-Zoo",
+   "source": "Discogs"
+  }
  },
  {
   "id": 34,
   "artist": "Alexander Von Schlippenbach",
   "album": "Globe Unity",
-  "meta": null
+  "meta": {
+   "year": "1967",
+   "label": "SABA",
+   "catno": "SB 15109",
+   "format": "Vinyl, LP, Album",
+   "country": "Germany",
+   "cover": "https://i.discogs.com/x-Q0rljev-e18JHIA5MZJ3-o7mIScE6gepZiJk-SbVg/rs:fit/g:sm/q:90/h:226/w:230/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzky/NzctMTI4NDMwMzEx/Ny5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/1879277-Alexander-von-Schlippenbach-Globe-Unity",
+   "source": "Discogs"
+  }
  },
  {
   "id": 35,
   "artist": "Charles Tyler",
   "album": "Eastern Man Alone",
-  "meta": null
+  "meta": {
+   "year": "1967",
+   "label": "ESP-Disk'",
+   "catno": "ESP 1059",
+   "format": "Vinyl, LP, Album, Stereo",
+   "country": "US",
+   "cover": "https://i.discogs.com/yD_KixOniNu4mrA7vsaYz_HhQxOWoM3o1s33Xew9mDw/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIw/MzYtMTQ3MTk4NTUz/My0zNzgyLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1602036-Charles-Tyler-Eastern-Man-Alone",
+   "source": "Discogs"
+  }
  },
  {
   "id": 36,
   "artist": "Clifford Thornton New Art Ensemble",
   "album": "Freedom & Unity",
-  "meta": null
+  "meta": {
+   "year": "1969",
+   "label": "Third World (5)",
+   "catno": "LP 9636",
+   "format": "Vinyl, LP, Album",
+   "country": "US",
+   "cover": "https://i.discogs.com/cimjoV3b9CyrodY0dYKN5PK5sCVXS9kjqJZsACU6ju0/rs:fit/g:sm/q:90/h:249/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzM0/NTUtMTE5ODE4MTgx/MC5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/1173455-The-Clifford-Thornton-New-Art-Ensemble-Freedom-Unity",
+   "source": "Discogs"
+  }
  },
  {
   "id": 37,
   "artist": "Han Bennink & Willem Breuker",
   "album": "New Acoustic Swing Duo",
-  "meta": null
+  "meta": {
+   "year": "1967",
+   "label": "Instant Composers Pool",
+   "catno": "ICP 001",
+   "format": "Vinyl, LP, Album",
+   "country": "Netherlands",
+   "cover": "https://i.discogs.com/tkoTe7dGDFNT7cztUyxl5SZWekyJKNANIvyORDoydK8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzg3/MDA3LTE3NzU2NjUz/MjYtNDUwOS5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/24787007-Han-Bennink-Willem-Breuker-New-Acoustic-Swing-Duo",
+   "source": "Discogs"
+  }
  },
  {
   "id": 38,
   "artist": "Lester Bowie",
   "album": "Numbers 1 & 2",
-  "meta": null
+  "meta": {
+   "year": "1967",
+   "label": "Nessa Records",
+   "catno": "n-1",
+   "format": "Vinyl, LP, Album, Stereo",
+   "country": "US",
+   "cover": "https://i.discogs.com/DBhnpuJXZVZifRtx3Gfs0v9kVZD9r0YKFsjZvmCk6LQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NDg2/NzYtMTQ1MzQ5ODMw/My0xMTk5LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/7948676-Lester-Bowie-Numbers-12",
+   "source": "Discogs"
+  }
  },
  {
   "id": 39,
   "artist": "Peter Brötzmann Octet",
   "album": "Machine Gun",
-  "meta": null
+  "meta": {
+   "year": "1968",
+   "label": "BRÖ",
+   "catno": "BRÖ 2",
+   "format": "Vinyl, LP, Album",
+   "country": "Germany",
+   "cover": "https://i.discogs.com/5yW9onELO3KFEAE_UFlQ6HnpT4XUa-V6Bh8kGTqCQEM/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDYz/ODUzLTE1MTY3OTAw/MzQtNzEwNC5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/11463853-Peter-Brötzmann-Octett-Machine-Gun",
+   "source": "Discogs"
+  }
  },
  {
   "id": 40,
   "artist": "The Jazz Composer's Orchestra",
   "album": "The Jazz Composer's Orchestra",
-  "meta": null
+  "meta": {
+   "year": "1968",
+   "label": "JCOA Records",
+   "catno": "LP 1001",
+   "format": "Vinyl, LP, Album, Stereo",
+   "country": "US",
+   "cover": "https://i.discogs.com/S6OO-uWeDQzbvf6tVZPo4ig5hlZdEKg9M302junC3Y0/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzE2/MjUyLTE3NTQxNzYw/MjQtMjgxNS5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/34716252-The-Jazz-Composers-Orchestra-The-Jazz-Composers-Orchestra",
+   "source": "Discogs"
+  }
  },
  {
   "id": 41,
   "artist": "Han Bennink/Misha Mengelberg/John Tchicai",
   "album": "Instant Composer's Pool",
-  "meta": null
+  "meta": {
+   "year": "1968",
+   "label": "Instant Composers Pool",
+   "catno": "ICP 002",
+   "format": "Vinyl, LP, Album",
+   "country": "Netherlands",
+   "cover": "https://i.discogs.com/SdhDkdXkUDkP7K9jBuolpHHDXr1Ido3zZqT911MUkxU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDMw/NTQ3LTE2MTY4NDI0/MjctODA2My5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/18030547-Han-Bennink-Misha-Mengelberg-John-Tchicai-Instant-Composers-Pool",
+   "source": "Discogs"
+  }
  },
  {
   "id": 42,
   "artist": "Spontaneous Music Ensemble",
   "album": "Karyobin",
-  "meta": null
+  "meta": {
+   "year": "1968",
+   "label": "Island Records",
+   "catno": "ILPS 9079",
+   "format": "Vinyl, LP, Album",
+   "country": "UK",
+   "cover": "https://i.discogs.com/FV7oQL6PKhNk2KhAcqPIpbXixZXOyghntkrGCuyEJpc/rs:fit/g:sm/q:90/h:538/w:540/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk1/ODYtMTQ1ODc0NjE5/NS0zNjQ4LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1339586-The-Spontaneous-Music-Ensemble-Karyōbin",
+   "source": "Discogs"
+  }
  },
  {
   "id": 43,
   "artist": "Marzette Watts",
   "album": "The Marzette Watts Ensemble",
-  "meta": null
+  "meta": {
+   "year": "1969",
+   "label": "Savoy Records",
+   "catno": "MG-12193",
+   "format": "Vinyl, LP, Album",
+   "country": "US",
+   "cover": "https://i.discogs.com/sEXfNB2rZHmQHvZVFQfYipUBd-jB-pamPu1tN7b-BVE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg1/MTEtMTM0MTAwMDQ0/OS03NjAyLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1498511-The-Marzette-Watts-Ensemble-The-Marzette-Watts-Ensemble",
+   "source": "Discogs"
+  }
  },
  {
   "id": 44,
   "artist": "Black Unity Trio",
   "album": "Al-Fatihah",
-  "meta": null
+  "meta": {
+   "year": "1969",
+   "label": "Salaam Records",
+   "catno": "777-A",
+   "format": "Vinyl, LP, Album",
+   "country": "US",
+   "cover": "https://i.discogs.com/oQgnspBZ5R4HFj3An2hlHInv7SVxCCRVEKhT8KfYQPA/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzQ4/MTEtMTU0MDgwMDY2/NS0xMjc0LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/4834811-Black-Unity-Trio-Al-Fatihah",
+   "source": "Discogs"
+  }
  },
  {
   "id": 45,
   "artist": "Marion Brown",
   "album": "Le Temps Fou",
-  "meta": null
+  "meta": {
+   "year": "1969",
+   "label": "Polydor",
+   "catno": "658 142",
+   "format": "Vinyl, LP, Album",
+   "country": "France",
+   "cover": "https://i.discogs.com/wK4jDoRI2reLJ-Cgs9nMxYsieM0CgD6Cdt-GencLKPQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTQw/NTMtMTQxNTI2OTYx/NC01MzI3LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/2914053-Marion-Brown-Le-Temps-Fou",
+   "source": "Discogs"
+  }
  },
  {
   "id": 46,
   "artist": "Dave Burrell",
   "album": "Echo",
-  "meta": null
+  "meta": {
+   "year": "1969",
+   "label": "BYG Records",
+   "catno": "529.320",
+   "format": "Vinyl, LP, Album",
+   "country": "France",
+   "cover": "https://i.discogs.com/4uP_RMsCZhbgqnsmlmNuR-G2BKdK8LqY2LnsFeeSPQQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDQ1/NC0xNDg3MjQ2MDYw/LTI0MjMuanBlZw.jpeg",
+   "url": "https://www.discogs.com/release/520454-Dave-Burrell-Echo",
+   "source": "Discogs"
+  }
  },
  {
   "id": 47,
   "artist": "Togashi Masahiko Quartet",
   "album": "We Now Create: Music For Strings, Winds, and Percussions",
-  "meta": null
+  "meta": {
+   "year": "1969",
+   "label": "Victor World Group",
+   "catno": "SMJX-10065",
+   "format": "Vinyl, LP, Album, Stereo",
+   "country": "Japan",
+   "cover": "https://i.discogs.com/R3cNSWk5sFv5f0BHivlwclMGjDnQC8RR_rCCnqCkFS8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTE4/ODctMTYyNDYwNTQx/NS0zNjk1LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/2591887-Togashi-Masahiko-Quartet-富樫雅彦カルテット-We-Now-Create-Music-For-Strings-Winds-And-Percu",
+   "source": "Discogs"
+  }
  },
  {
   "id": 48,
   "artist": "Joe McPhee Quartet",
   "album": "Underground Railroad",
-  "meta": null
+  "meta": {
+   "year": "1969",
+   "label": "CjRecord Productions",
+   "catno": "CJR-1",
+   "format": "Vinyl, LP, Album, Stereo",
+   "country": "US",
+   "cover": "https://i.discogs.com/3WnMhOisQp1rSvcsv38uT6dDbJUueb5CJUnPI8OpkG0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njc0/NTgtMTY4MjIzMzA5/Ni03NjQwLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1767458-The-Joe-McPhee-Quartet-Underground-Railroad",
+   "source": "Discogs"
+  }
  },
  {
   "id": 49,
   "artist": "Michel Portal",
   "album": "Our Meanings and Our Feelings",
-  "meta": null
+  "meta": {
+   "year": "1969",
+   "label": "Pathé",
+   "catno": "2 C 054-10525",
+   "format": "Vinyl, LP, Album, Stereo",
+   "country": "France",
+   "cover": "https://i.discogs.com/uO6QymVQAEhCKPaPZpsejeN4cpzJTmaZ51EohPrrB2c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzY1/MTYtMTUyNTI4ODg0/Ny00OTk2LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1736516-Michel-Portal-Our-Meanings-And-Our-Feelings",
+   "source": "Discogs"
+  }
  },
  {
   "id": 50,
   "artist": "Sonny Sharrock",
   "album": "Black Woman",
-  "meta": null
+  "meta": {
+   "year": "1969",
+   "label": "Vortex Records (2)",
+   "catno": "2014",
+   "format": "Vinyl, LP, Album, Promo, Stereo",
+   "country": "US",
+   "cover": "https://i.discogs.com/Atss3R5xRfjKU-6kXteYz1E-eJGFVS6nxdlNMLWujgA/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTIx/MS0xMzEzODE4MTAy/LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/929211-Sonny-Sharrock-Black-Woman",
+   "source": "Discogs"
+  }
  },
  {
   "id": 51,
   "artist": "Archie Shepp",
   "album": "Blasé",
-  "meta": null
+  "meta": {
+   "year": "1969",
+   "label": "BYG Records",
+   "catno": "529.318",
+   "format": "Vinyl, LP, Album",
+   "country": "France",
+   "cover": "https://i.discogs.com/c-3wbYnfWjerW2Hn1oFJUsfgmH8ZvlkesFdcm3yGVd8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTA5/NzctMTY2Mjc4NzYz/Ni04MDk5LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/8190977-Archie-Shepp-Blasé",
+   "source": "Discogs"
+  }
  },
  {
   "id": 52,
   "artist": "Alan Shorter",
   "album": "Orgasm",
-  "meta": null
+  "meta": {
+   "year": "1969",
+   "label": "Verve Records",
+   "catno": "V6-8768",
+   "format": "Vinyl, LP, Album",
+   "country": "US",
+   "cover": "https://i.discogs.com/OJyDN1TdLxGfMuIeVI4TlcZWowY1pSjfJ3FxJLOxzno/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTUx/OTAtMTM2NDI3MzA1/OS0xMTA0LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/4415190-Alan-Shorter-Orgasm",
+   "source": "Discogs"
+  }
  },
  {
   "id": 53,
   "artist": "Horace Tapscott Quintet",
   "album": "The Giant Is Awakened",
-  "meta": null
+  "meta": {
+   "year": "1969",
+   "label": "Flying Dutchman",
+   "catno": "FDS 107",
+   "format": "Vinyl, LP, Album, Promo, Stereo",
+   "country": "US",
+   "cover": "https://i.discogs.com/weOC1IVkEJPNl3TLANi9jU1ruW57JrBTDFG-6jM1dW4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODc3/MjItMTUxNjQwNzk1/OS02NTQ0LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/6787722-Horace-Tapscott-Quintet-The-Giant-Is-Awakened",
+   "source": "Discogs"
+  }
  },
  {
   "id": 54,
   "artist": "John Tchicai & Cadentia Nova Danica",
   "album": "Afrodisiaca",
-  "meta": null
+  "meta": {
+   "year": "1969",
+   "label": "MPS Records",
+   "catno": "MPS 15249 ST",
+   "format": "Vinyl, LP, Album",
+   "country": "Germany",
+   "cover": "https://i.discogs.com/bIu8QZtBYTX0dmNtU-kkE_jYb5uWe2hBXfCmUtn649g/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjY4/MTEtMTQ3NDM4MjU0/NS01NjQ1LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1326811-John-Tchicai-And-Cadentia-Nova-Danica-Afrodisiaca",
+   "source": "Discogs"
+  }
  },
  {
   "id": 55,
   "artist": "Yosuke Yamashita Trio",
   "album": "Dancing",
-  "meta": null
+  "meta": {
+   "year": "1971",
+   "label": "Maro Record",
+   "catno": "46-20 (OS-1129L)",
+   "format": "Vinyl, LP, Album, Stereo",
+   "country": "Japan",
+   "cover": "https://i.discogs.com/jsbF_fPzKGTTQ4pasnRVEN0YoXeybeL9cIoAj9JpqSQ/rs:fit/g:sm/q:90/h:480/w:485/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTU4/NDAtMTQ2NTYzMjU1/OC01MTE0LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/2595840-Yosuke-Yamashita-Trio-山下洋輔トリオ-Dancing-古事記",
+   "source": "Discogs"
+  }
  },
  {
   "id": 56,
@@ -339,85 +798,211 @@
   "id": 57,
   "artist": "Jimmy Lyons",
   "album": "Other Afternoons",
-  "meta": null
+  "meta": {
+   "year": "1970",
+   "label": "BYG Records",
+   "catno": "529.309",
+   "format": "Vinyl, LP, Album",
+   "country": "France",
+   "cover": "https://i.discogs.com/bUFkWRe1J-SMSlArxFuIHyivagCFB264FVb7qcebhg0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDYw/NS0xNDA2MTM0NDg5/LTEzMDQuanBlZw.jpeg",
+   "url": "https://www.discogs.com/release/460605-Jimmy-Lyons-2-Other-Afternoons",
+   "source": "Discogs"
+  }
  },
  {
   "id": 58,
   "artist": "Friendship Next of Kin",
   "album": "Facets of the Universe",
-  "meta": null
+  "meta": {
+   "year": "1971",
+   "label": "Goody",
+   "catno": "GY 30006",
+   "format": "Vinyl, LP, Album, Stereo",
+   "country": "France",
+   "cover": "https://i.discogs.com/on6MnKbL870Ql3h2Vetu5XRiVQi8sTJjRjZRUAMnTAY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzUz/MjYtMTYzNzgyNjA2/Ny00MDEzLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1935326-Friendship-Next-Of-Kin-Featuring-Selwyn-Lissack-Facets-Of-The-Univers",
+   "source": "Discogs"
+  }
  },
  {
   "id": 59,
   "artist": "Cairo Free Jazz Ensemble",
   "album": "Heliopolis",
-  "meta": null
+  "meta": {
+   "year": "1970",
+   "label": "Sono Cairo",
+   "catno": "7037080",
+   "format": "Vinyl, LP, Album",
+   "country": "Egypt",
+   "cover": "https://i.discogs.com/tmmwpHp1grq5f6tFtwFLH6YPW-n8w8LDoIJ55MnlrOU/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTc1/NzYtMTU4NTM1Mzk2/OS0xNDYwLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/3297576-Cairo-Free-Jazz-Ensemble-Heliopolis",
+   "source": "Discogs"
+  }
  },
  {
   "id": 60,
   "artist": "Ric Colbeck Quartet",
   "album": "The Sun Is Coming Up",
-  "meta": null
+  "meta": {
+   "year": "1970",
+   "label": "Fontana",
+   "catno": "6383 001",
+   "format": "Vinyl, LP, Album",
+   "country": "UK",
+   "cover": "https://i.discogs.com/YGDb7BIgKYQoC0_vISIVSh2bB_7ss-tnz8T2e6Kcjxo/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDM2/NjMtMTI0NDM3ODk4/My5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/1803663-The-Ric-Colbeck-Quartet-The-Sun-Is-Coming-Up",
+   "source": "Discogs"
+  }
  },
  {
   "id": 61,
   "artist": "Full Moon Ensemble",
   "album": "Crowded With Loneliness",
-  "meta": null
+  "meta": {
+   "year": "1970",
+   "label": "CBS",
+   "catno": "S 64267",
+   "format": "Vinyl, LP, Album",
+   "country": "France",
+   "cover": "https://i.discogs.com/PEZxstJjtmrv3ajps3CgrJCPoz3T7xH8qT3jhaK3FQk/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ5/MDYtMTU0ODQyNzEx/Mi02ODkzLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1534906-Full-Moon-Ensemble-Featuring-Claude-Delcloo-Crowded-With-Loneliness",
+   "source": "Discogs"
+  }
  },
  {
   "id": 62,
   "artist": "Jan Garbarek Quartet",
   "album": "Afric Pepperbird",
-  "meta": null
+  "meta": {
+   "year": "1970",
+   "label": "ECM Records",
+   "catno": "ECM 1007",
+   "format": "Vinyl, LP, Album",
+   "country": "Norway",
+   "cover": "https://i.discogs.com/UJY84hDj5klHQFH6-SfXS-yd8sAdxSd_ul1MnnTjDw0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk5/MTc3LTE3NDk1Njk1/MDgtOTQyNC5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/10399177-Jan-Garbarek-Quartet-Afric-Pepperbird",
+   "source": "Discogs"
+  }
  },
  {
   "id": 63,
   "artist": "Masayuki Takayanagi/Kaoru Abe",
   "album": "解体的交感 Kaitai Teki Kōkan",
-  "meta": null
+  "meta": {
+   "year": "2018",
+   "label": "Craftman Records",
+   "catno": "CMRS-0013",
+   "format": "CD, Album, Limited Edition, Reissue",
+   "country": "Japan",
+   "cover": "https://i.discogs.com/2spVTe_kpwNeFiEi5JMsK_4GKX_9d_NGZQofSkrui-g/rs:fit/g:sm/q:90/h:501/w:508/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU5/MDAxLTE2NjEzMjIw/NjAtMjc4OS5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/11859001-高柳昌行-阿部薫-解体的交感-Kaitai-Teki-Kōkan",
+   "source": "Discogs"
+  }
  },
  {
   "id": 64,
   "artist": "Tony Oxley",
   "album": "4 Compositions For Sextet",
-  "meta": null
+  "meta": {
+   "year": "1970",
+   "label": "CBS",
+   "catno": "64071",
+   "format": "Vinyl, LP",
+   "country": "UK",
+   "cover": "https://i.discogs.com/xDwFTIwG6599CmlRduqMuHPYs3WaW0yJnG35i2DUC4c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTUx/MDItMTQ2NDM0Mzgx/OC0yMTY1LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1055102-Tony-Oxley-4-Compositions-For-Sextet",
+   "source": "Discogs"
+  }
  },
  {
   "id": 65,
   "artist": "Evan Parker/Derek Bailey/Han Bennink",
   "album": "Topography of the Lungs",
-  "meta": null
+  "meta": {
+   "year": "1970",
+   "label": "Incus",
+   "catno": "INCUS.1",
+   "format": "Vinyl, LP, Album",
+   "country": "UK",
+   "cover": "https://i.discogs.com/Jsahi3Zz3cn9TMJuilCxjVNZWb9k21Lb3ScPpjpyXvs/rs:fit/g:sm/q:90/h:404/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDEy/OC0xMjI3NDg3NzUx/LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/424128-Evan-Parker-Derek-Bailey-Han-Bennink-The-Topography-Of-The-Lungs",
+   "source": "Discogs"
+  }
  },
  {
   "id": 66,
   "artist": "Mario Schiano Trio",
   "album": "If Not Ecstatic We Refund",
-  "meta": null
+  "meta": {
+   "year": "1970",
+   "label": "C.E.D.I.",
+   "catno": "GLP 81027",
+   "format": "Vinyl, LP, Album",
+   "country": "Italy",
+   "cover": "https://i.discogs.com/t8yJikZBQU14LqtO5sEUb9OXpROnDMh1c3aeCxSw-7E/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzIz/NTQtMTQyNTUwOTY1/MC0xMjM5LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/6732354-Mario-Schiano-Trio-If-Not-Ecstatic-We-Refund",
+   "source": "Discogs"
+  }
  },
  {
   "id": 67,
   "artist": "Edward Vesala Trio",
   "album": "Nana",
-  "meta": null
+  "meta": {
+   "year": "1970",
+   "label": "Blue Master",
+   "catno": "BLU-LP 125",
+   "format": "Vinyl, LP, Album",
+   "country": "Finland",
+   "cover": "https://i.discogs.com/JU11BBghLTLTXhNlNJhN0opiJAP8fbiPJdlzZ8CSasU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgy/NDItMTU0MjEzNzk0/Ni01NDQ5LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1058242-Edward-Vesala-Trio-Nana",
+   "source": "Discogs"
+  }
  },
  {
   "id": 68,
   "artist": "Abdul Hannan",
   "album": "The Third World",
-  "meta": null
+  "meta": {
+   "year": "1971",
+   "label": "Not On Label (Abdul Hannan Self-released)",
+   "catno": "AH-1",
+   "format": "Vinyl, LP, Album",
+   "country": "US",
+   "cover": "https://i.discogs.com/u5c0lWDEINpjtLrQrNOPyl84p8tyMOQeVigyhNomGZU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDYz/OTEtMTY4MjIzMTEx/OC0yMjAxLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1306391-Abdul-Hannan-The-Third-World",
+   "source": "Discogs"
+  }
  },
  {
   "id": 69,
   "artist": "Art Ensemble of Chicago",
   "album": "Phase One",
-  "meta": null
+  "meta": {
+   "year": "1971",
+   "label": "America Records",
+   "catno": "30 AM 6116",
+   "format": "Vinyl, LP, Album, Stereo",
+   "country": "France",
+   "cover": "https://i.discogs.com/-bLVneBDttTv_WsIttVgvc2fJZjrSBqY5f6-8QXNg3M/rs:fit/g:sm/q:90/h:360/w:360/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYy/ODEtMTIwMTYwNjA0/MC5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/1116281-Art-Ensemble-Of-Chicago-Phase-One",
+   "source": "Discogs"
+  }
  },
  {
   "id": 70,
   "artist": "Anthony Braxton",
   "album": "For Alto",
-  "meta": null
+  "meta": {
+   "year": "1971",
+   "label": "Not On Label",
+   "catno": "DS-420",
+   "format": "Vinyl, LP, White Label",
+   "country": "US",
+   "cover": "https://i.discogs.com/XGaHfz15u-IMLO1Y8zTNQyvIX6HUUeaW5qj2RLBiw5A/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEw/NjQwLTE1NDIzOTc2/MTktNTk5NS5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/12810640-Anthony-Braxton-For-Alto",
+   "source": "Discogs"
+  }
  },
  {
   "id": 71,
@@ -429,31 +1014,76 @@
   "id": 72,
   "artist": "Masahiko Togashi & Mototeru Takagi",
   "album": "Isolation",
-  "meta": null
+  "meta": {
+   "year": "1971",
+   "label": "Columbia",
+   "catno": "JDX-49",
+   "format": "Vinyl, LP, Album, Promo",
+   "country": "Japan",
+   "cover": "https://i.discogs.com/RGFmiUZtq7unr4t8cSqL0u_dJNRXC0laU5KVFGkdBaM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjg2/NTAyLTE2NTU5MzI5/NzktMzEyMC5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/12686502-富樫雅彦-高木元輝-Isolation-アイソレイション",
+   "source": "Discogs"
+  }
  },
  {
   "id": 73,
   "artist": "Masahiko Sato Trio",
   "album": "In Berlin - Penetration",
-  "meta": null
+  "meta": {
+   "year": "1972",
+   "label": "Toshiba Records",
+   "catno": "TP-9521Z",
+   "format": "Vinyl, LP, Album, Quadraphonic",
+   "country": "Japan",
+   "cover": "https://i.discogs.com/TchNt33PCXlY_l-pv1podppGGyO5aB-qEo1OKt3xzHI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDYz/NDktMTcyMDU5MjQ5/Ny0zNjMwLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/5846349-Masahiko-Sato-Trio-Penetration-Masahiko-Sato-Trio-In-Berlin",
+   "source": "Discogs"
+  }
  },
  {
   "id": 74,
   "artist": "London Jazz Composer's Orchestra",
   "album": "Ode",
-  "meta": null
+  "meta": {
+   "year": "1972",
+   "label": "Incus",
+   "catno": "INCUS 6/7",
+   "format": "Vinyl, LP, Album, Stereo",
+   "country": "UK",
+   "cover": "https://i.discogs.com/8zDWf7L7ENACHFr2_-gjsqCNoc0-40-TRPGtjFjgp-M/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDIz/NDQtMTY5MDQ4ODA4/Ni0yNTcyLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1642344-Barry-Guy-The-London-Jazz-Composers-Orchestra-Ode",
+   "source": "Discogs"
+  }
  },
  {
   "id": 75,
   "artist": "Julius Hemphill",
   "album": "Dogon A.D.",
-  "meta": null
+  "meta": {
+   "year": "1972",
+   "label": "Mbari",
+   "catno": "MPC 501",
+   "format": "Vinyl, LP, Album",
+   "country": "US",
+   "cover": "https://i.discogs.com/7e8YkUz2Pfy0le7Lq-RQqbQoJ6X9gj0Ocy4T9LG-11c/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTU4/ODItMTI5MDA4MjYy/Ni5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/2515882-Julius-Hemphill-Dogon-AD",
+   "source": "Discogs"
+  }
  },
  {
   "id": 76,
   "artist": "Noah Howard",
   "album": "The Black Ark",
-  "meta": null
+  "meta": {
+   "year": "1972",
+   "label": "Freedom",
+   "catno": "28 426-5 U",
+   "format": "Vinyl, LP, Album",
+   "country": "Germany",
+   "cover": "https://i.discogs.com/R0CUJFpe8lB382iS5tGpySN_wineUiNbcgcKVnDGPTI/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTc5/NDUtMTcyMDI0NTQ3/OC02MTk3LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1657945-Noah-Howard-The-Black-Ark",
+   "source": "Discogs"
+  }
  },
  {
   "id": 77,
@@ -465,192 +1095,480 @@
   "id": 78,
   "artist": "Evan Parker & Paul Lytton",
   "album": "Collective Calls (Urban) (Two Microphones)",
-  "meta": null
+  "meta": {
+   "year": "1972",
+   "label": "Incus",
+   "catno": "INCUS 5",
+   "format": "Vinyl, LP",
+   "country": "UK",
+   "cover": "https://i.discogs.com/FDNxxOmGtLPFPdEo8pmtiEB_hwKSs_LSbumlWLQ8fA4/rs:fit/g:sm/q:90/h:400/w:388/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE0/OTMtMTI2OTI5NjI1/Ni5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/1581493-Evan-Parker-Paul-Lytton-Collective-Calls-Urban-Two-Microphones",
+   "source": "Discogs"
+  }
  },
  {
   "id": 79,
   "artist": "Peter Kowald Quintet",
   "album": "Peter Kowald Quintet",
-  "meta": null
+  "meta": {
+   "year": "1973",
+   "label": "FMP",
+   "catno": "FMP 0070",
+   "format": "Vinyl, LP",
+   "country": "Germany",
+   "cover": "https://i.discogs.com/N1NWrui0a6slTskSPqZDanpLWAtN89sGDs8h07OzEJs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MzU3/MS0xNTkyNjU3MzAy/LTYzMDEuanBlZw.jpeg",
+   "url": "https://www.discogs.com/release/883571-Peter-Kowald-Quintet-Peter-Kowald-Quintet",
+   "source": "Discogs"
+  }
  },
  {
   "id": 80,
   "artist": "Kaoru Abe",
   "album": "1972 Winter",
-  "meta": null
+  "meta": {
+   "year": "1974",
+   "label": "Sound Works",
+   "catno": "MN-3039",
+   "format": "Vinyl, LP, Stereo",
+   "country": "Japan",
+   "cover": "https://i.discogs.com/gPJJ6PgSt7Td1ZxekjMzFQ6XVVMZjObbe9JYwxYqjW0/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjIw/NDEtMTMzNTM2MzE4/Ny5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/3562041-Abe-Kaoru-1972-Winter",
+   "source": "Discogs"
+  }
  },
  {
   "id": 81,
   "artist": "Frank Wright Quartet",
   "album": "Church Number Nine",
-  "meta": null
+  "meta": {
+   "year": "1971",
+   "label": "Odeon",
+   "catno": "OP-88019",
+   "format": "Vinyl, LP, Album, Promo",
+   "country": "Japan",
+   "cover": "https://i.discogs.com/wAyFjQBaBNlk6sXP1qzkYgPESrnh7Auk_T9Wd84Qruw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjI5/NDMzLTE2NzAxOTY0/OTYtMTQwNC5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/17229433-The-Frank-Wright-Quartet-Church-Number-Nine",
+   "source": "Discogs"
+  }
  },
  {
   "id": 82,
   "artist": "Rashied Ali & Frank Lowe",
   "album": "Duo Exchange",
-  "meta": null
+  "meta": {
+   "year": "1973",
+   "label": "Survival Records (2)",
+   "catno": "SR 101",
+   "format": "Vinyl, LP, Album",
+   "country": "US",
+   "cover": "https://i.discogs.com/CvWevoplYqjuFie18GXuGuHCjUGq1lM2CVk1KInQ4yQ/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTY1/NS0xMzM4Nzc0OTkw/LTQ4NzkuanBlZw.jpeg",
+   "url": "https://www.discogs.com/release/991655-Rashied-Ali-Frank-Lowe-Duo-Exchange",
+   "source": "Discogs"
+  }
  },
  {
   "id": 83,
   "artist": "Black Artists Group",
   "album": "In Paris, Aries 1973",
-  "meta": null
+  "meta": {
+   "year": "1973",
+   "label": "Not On Label (Black Artists Group Self-released)",
+   "catno": "BAG 324 000",
+   "format": "Vinyl, LP, Album",
+   "country": "France",
+   "cover": "https://i.discogs.com/23fHahgwFxn0w30btn1Nn1rziVT5GHhb4Kdz5y0Xisw/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTk5/OTMtMTUyNjEzMjI0/NS01Mzg3LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/2859993-Black-Artists-Group-In-Paris-Aries-1973",
+   "source": "Discogs"
+  }
  },
  {
   "id": 84,
   "artist": "Rudiger Carl",
   "album": "King Alcohol (New Version)",
-  "meta": null
+  "meta": {
+   "year": "1973",
+   "label": "FMP",
+   "catno": "FMP 0060",
+   "format": "Vinyl, LP",
+   "country": "Germany",
+   "cover": "https://i.discogs.com/arJmQsm-WEzCOt5MyPeYDD-TzN2bZYc7a75rt9zqkzA/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgx/NzMtMTM2MDUyOTQ1/Mi01OTE1LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1448173-Rüdiger-Carl-Inc-King-Alcohol-New-Version",
+   "source": "Discogs"
+  }
  },
  {
   "id": 85,
   "artist": "Emergency",
   "album": "Homage To Peace",
-  "meta": null
+  "meta": {
+   "year": "1973",
+   "label": "America Records",
+   "catno": "30 AM 6134",
+   "format": "Vinyl, LP, Album",
+   "country": "France",
+   "cover": "https://i.discogs.com/DWC9DD6ednzfExsbLTTlYTA6mR9_23tcqs4AQtOefh0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTYz/MzQtMTY3NTQ5NzY5/MC0xMTcxLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1656334-Emergency-11-Homage-To-Peace",
+   "source": "Discogs"
+  }
  },
  {
   "id": 86,
   "artist": "Dewey Redman",
   "album": "The Ear of the Behearer",
-  "meta": null
+  "meta": {
+   "year": "1973",
+   "label": "Impulse!",
+   "catno": "IMP-88145",
+   "format": "Vinyl, LP, Album, Promo, Stereo",
+   "country": "Japan",
+   "cover": "https://i.discogs.com/kLVpE-kp6vxW_0L7U_RGNMXPiampPXh05etCdPRzJno/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/MjYxLTE2ODYyNjE0/MjMtNTMzNC5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/27327261-Dewey-Redman-The-Ear-Of-The-Behearer",
+   "source": "Discogs"
+  }
  },
  {
   "id": 87,
   "artist": "Ray Russell",
   "album": "Secret Asylum",
-  "meta": null
+  "meta": {
+   "year": "1973",
+   "label": "Black Lion Records",
+   "catno": "28 456-2 U",
+   "format": "Vinyl, LP, Album",
+   "country": "Germany",
+   "cover": "https://i.discogs.com/Isym8cuKdl6GsGVExCPfQzf1zJVABtRNRKO08RZ5R-0/rs:fit/g:sm/q:90/h:280/w:280/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTYy/NjItMTMwMDMzNDYx/MC5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/2196262-Ray-Russell-Secret-Asylum",
+   "source": "Discogs"
+  }
  },
  {
   "id": 88,
   "artist": "Alexander Von Schlippenbach Trio",
   "album": "Pakistani Pomade",
-  "meta": null
+  "meta": {
+   "year": "1973",
+   "label": "FMP",
+   "catno": "FMP 0110",
+   "format": "Vinyl, LP, Album",
+   "country": "Germany",
+   "cover": "https://i.discogs.com/kAdKQT4zV5rFeHgXWKEK8bK185CGFGn3Ojb7y1brE6A/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc2/MDQ0LTE2NzAyNDkw/NjctODA5Ny5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/25376044-Alexander-Von-Schlippenbach-Trio-Pakistani-Pomade",
+   "source": "Discogs"
+  }
  },
  {
   "id": 89,
   "artist": "Cecil Taylor Unit",
   "album": "Akisakila",
-  "meta": null
+  "meta": {
+   "year": "1986",
+   "label": "Break Time",
+   "catno": "BRJ-5001~2",
+   "format": "CD, Reissue, Stereo",
+   "country": "Japan",
+   "cover": "https://i.discogs.com/Nc59muxhh7oQ1SwWyNbG9mcENluVcAwCsB-4GrlTcmY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDYy/MjEtMTQ1NTI2MDUx/OS04MDAwLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/8106221-Cecil-Taylor-Unit-Akisakila-Cecil-Taylor-Unit-In-Japan",
+   "source": "Discogs"
+  }
  },
  {
   "id": 90,
   "artist": "The Phil Musra Group",
   "album": "Creator Spaces",
-  "meta": null
+  "meta": {
+   "year": "1974",
+   "label": "Intex Sound",
+   "catno": "Rec. No. 84",
+   "format": "Vinyl, LP, Album",
+   "country": "US",
+   "cover": "https://i.discogs.com/lnW8bQEa9DjZo3rN1yTYFNpACEGEUaPixC7LpzrXHn4/rs:fit/g:sm/q:90/h:486/w:489/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODgx/MTUtMTI5MjQyNjEy/Ni5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/2588115-The-Phill-Musra-Group-Creator-Spaces",
+   "source": "Discogs"
+  }
  },
  {
   "id": 91,
   "artist": "Howard Riley",
   "album": "Synopsis",
-  "meta": null
+  "meta": {
+   "year": "1974",
+   "label": "Incus",
+   "catno": "INCUS 13",
+   "format": "Vinyl, LP, Album",
+   "country": "UK",
+   "cover": "https://i.discogs.com/bD-Y7QB2x5y4eQslW6eEKyohZis8X1KY3c7pdiNOQH0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjY5/NTUtMTQ2NDk2NjE1/Ni01NjE5LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/2326955-Howard-Riley-Synopsis",
+   "source": "Discogs"
+  }
  },
  {
   "id": 92,
   "artist": "Jeanne Lee",
   "album": "Conspiracy",
-  "meta": null
+  "meta": {
+   "year": "1975",
+   "label": "Seeds (3)",
+   "catno": "5",
+   "format": "Vinyl, LP, Album",
+   "country": "US",
+   "cover": "https://i.discogs.com/8szoIY10b_hlGehoMHcFcj--y6IUpDxNm-SFfu80kJ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc2/NTQ4LTE2OTg4ODYy/OTEtNzUxOS5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/14976548-Jeanne-Lee-Conspiracy",
+   "source": "Discogs"
+  }
  },
  {
   "id": 93,
   "artist": "Mount Everest Trio",
   "album": "Waves For Albert Ayler",
-  "meta": null
+  "meta": {
+   "year": "1975",
+   "label": "Levande Improviserad Musik",
+   "catno": "LIM-7503",
+   "format": "Vinyl, LP, Album",
+   "country": "Sweden",
+   "cover": "https://i.discogs.com/0W4TT4FIphX9skxCBgyhJuyv-048xoykhjGOzXCWJuA/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MDQ2/OS0xNTQyNTY4Nzgw/LTg5NzgubXBv.jpeg",
+   "url": "https://www.discogs.com/release/970469-Mount-Everest-Trio-Waves-From-Albert-Ayler",
+   "source": "Discogs"
+  }
  },
  {
   "id": 94,
   "artist": "Toshiyuki Tsuchitori & Mototeru Takagi",
   "album": "Origination",
-  "meta": null
+  "meta": {
+   "year": "1975",
+   "label": "Alm Records",
+   "catno": "AL-4",
+   "format": "Vinyl, LP, Stereo",
+   "country": "Japan",
+   "cover": "https://i.discogs.com/PpycMr-cMvXqbgd6_a1NDpIPK681IH509t-I8dj0hJk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTYx/MjgtMTM1MjQyODU0/OC0xMTMzLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/4016128-Toshiyuki-Tsuchitori-Mototeru-Takagi-土取利行-高木元輝-Origination-オリジネイション",
+   "source": "Discogs"
+  }
  },
  {
   "id": 95,
   "artist": "Schweizer/Carl/Moholo",
   "album": "Messer",
-  "meta": null
+  "meta": {
+   "year": "1976",
+   "label": "FMP",
+   "catno": "FMP 0290",
+   "format": "Vinyl, LP",
+   "country": "Germany",
+   "cover": "https://i.discogs.com/BSHayKvBQfzZjSLAjYzQ4AAdHKzRzPkWQM02UQOpcRM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTcx/NjMtMTQ0MjA2NzAy/Ny00NzM5LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/6657163-Schweizer-Carl-Moholo-Messer",
+   "source": "Discogs"
+  }
  },
  {
   "id": 96,
   "artist": "Milford Graves",
   "album": "Babi",
-  "meta": null
+  "meta": {
+   "year": "1977",
+   "label": "IPS (2)",
+   "catno": "IPS ST004",
+   "format": "Vinyl, LP, Album, Stereo",
+   "country": "US",
+   "cover": "https://i.discogs.com/4F7rM7DjXliUcxKaLcW7AiBLl4rOoZNA0quroYD-kbA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTAz/Mjc0LTE1OTc1ODQz/NjgtMzc2My5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/11903274-Milford-Graves-Bäbi",
+   "source": "Discogs"
+  }
  },
  {
   "id": 97,
   "artist": "Ensemble Muntu",
   "album": "First Feeding",
-  "meta": null
+  "meta": {
+   "year": "1977",
+   "label": "Muntu Records",
+   "catno": "1001",
+   "format": "Vinyl, LP, Album",
+   "country": "US",
+   "cover": "https://i.discogs.com/paGaO7ykQ4bi23ywjGiSZHbRAhpWypDll76sHkf7EQo/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzM3/MzAtMTc0NzI0MTc3/OS00ODg0LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/5373730-Ensemble-Muntu-First-Feeding",
+   "source": "Discogs"
+  }
  },
  {
   "id": 98,
   "artist": "Percussive Unity",
   "album": "Only Change Is Unchanging - Percussive Unity Live",
-  "meta": null
+  "meta": {
+   "year": "1977",
+   "label": "Sue Music Group",
+   "catno": "SUE-001",
+   "format": "Vinyl, LP",
+   "country": "Japan",
+   "cover": "https://i.discogs.com/qMuQRjvzIHQOmbvA65jwxI1Cq2K7Uftdqqc_pAyRF5Y/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTI0/NzgtMTU5NjkyNTUy/NC04MzA4LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/5912478-Percussive-Unity-Live-Only-Change-Is-Unchanging",
+   "source": "Discogs"
+  }
  },
  {
   "id": 99,
   "artist": "Arthur Doyle Plus 4",
   "album": "Alabama Feeling",
-  "meta": null
+  "meta": {
+   "year": "1978",
+   "label": "AK-BA Records",
+   "catno": "AK 1030",
+   "format": "Vinyl, LP, Album",
+   "country": "US",
+   "cover": "https://i.discogs.com/up3SFBVyFymsvTk8FKtCkttwQpRU2xTAbWS6Y1w4tc0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM3/ODAtMTQ0Njg1Mjgy/Ni05MzU3LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1123780-Arthur-Doyle-Plus-4-Alabama-Feeling",
+   "source": "Discogs"
+  }
  },
  {
   "id": 100,
   "artist": "Louis Moholo Octet",
   "album": "Spirits Rejoice!",
-  "meta": null
+  "meta": {
+   "year": "1978",
+   "label": "Ogun",
+   "catno": "OG 520",
+   "format": "Vinyl, LP, Album",
+   "country": "UK",
+   "cover": "https://i.discogs.com/s71ytLyP_AR7_9FQ4JgGM3tIaqvoAE97gB3c1gqGf04/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzAz/NC0xNDc3MzQyNDgy/LTYyNzcuanBlZw.jpeg",
+   "url": "https://www.discogs.com/release/453034-Louis-Moholo-Octet-Spirits-Rejoice",
+   "source": "Discogs"
+  }
  },
  {
   "id": 101,
   "artist": "David S. Ware",
   "album": "From Silence To Music",
-  "meta": null
+  "meta": {
+   "year": "1978",
+   "label": "Palm",
+   "catno": "PALM 32",
+   "format": "Vinyl, LP, Album",
+   "country": "France",
+   "cover": "https://i.discogs.com/mCGUDA183aKXz9RW19cwgk7G8bIcSjeC75Zro7dBmP4/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU4/MTItMTMzNjk1NTc4/Ni0xMTIyLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1605812-David-S-Ware-featuring-Jean-Charles-Capon-From-Silence-To-Music",
+   "source": "Discogs"
+  }
  },
  {
   "id": 102,
   "artist": "Polly Bradfield",
   "album": "Solo Violin Improvisations",
-  "meta": null
+  "meta": {
+   "year": "1979",
+   "label": "Parachute",
+   "catno": "P008",
+   "format": "Vinyl, LP, Album",
+   "country": "US",
+   "cover": "https://i.discogs.com/enn3lKhRbHsDaQZSroVffETJu1H4n0jHO0qThW4ZgOM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTYx/NjYtMTM3NTYzNzY5/OC02NTAxLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1556166-Polly-Bradfield-Solo-Violin-Improvisations",
+   "source": "Discogs"
+  }
  },
  {
   "id": 103,
   "artist": "Andrew Cyrille/Jeanne Lee/Jimmy Lyons",
   "album": "Nuba",
-  "meta": null
+  "meta": {
+   "year": "1979",
+   "label": "Black Saint",
+   "catno": "BSR 0030",
+   "format": "Vinyl, LP, Album",
+   "country": "Italy",
+   "cover": "https://i.discogs.com/QuPB27kY3_bVpVTwQDQ-6ZJ8DiyGbT-ykvJn2pn4oSA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzA3/NjYtMTQ5NzIxNDg3/Ny03OTI1LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/2070766-Andrew-Cyrille-Jeanne-Lee-Jimmy-Lyons-2-Nuba",
+   "source": "Discogs"
+  }
  },
  {
   "id": 104,
   "artist": "Feminist Improvising Group",
   "album": "Feminist Improvising Group",
-  "meta": null
+  "meta": {
+   "year": "1979",
+   "label": "Not On Label (Feminist Improvising Group Self-released)",
+   "catno": "none",
+   "format": "Cassette, Album",
+   "country": "UK",
+   "cover": "https://i.discogs.com/KKIE8iG25QuxrpNAsjYKhQCD3CofLNBqrKe-tBqS45Q/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDgz/NzEtMTUwOTExOTQ2/MS00ODcyLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/2748371-Feminist-Improvising-Group-Feminist-Improvising-Group",
+   "source": "Discogs"
+  }
  },
  {
   "id": 105,
   "artist": "Borbetomagus",
   "album": "Borbetomagus",
-  "meta": null
+  "meta": {
+   "year": "1980",
+   "label": "Agaric Records",
+   "catno": "Ag 1980",
+   "format": "Vinyl, LP",
+   "country": "US",
+   "cover": "https://i.discogs.com/hDoyfs2BSgX7Xqd_y5-OilvYLvofr6Ry7ZJF0gwgi4w/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzE4/MzktMTU3NzU0MDAw/My04MjQzLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1571839-Borbetomagus-Borbetomagus",
+   "source": "Discogs"
+  }
  },
  {
   "id": 106,
   "artist": "Lokomotiv Konkret",
   "album": "Lokomotiv Konkret",
-  "meta": null
+  "meta": {
+   "year": "1980",
+   "label": "Urspår",
+   "catno": "URS 4",
+   "format": "Vinyl, LP, Album",
+   "country": "Sweden",
+   "cover": "https://i.discogs.com/XNHDLpNZ5adok_yutVJGS_zVwW-LRb0XbiU4OLlS5SY/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODY2/NDAtMTIxNTIwNzkz/Ny5qcGVn.jpeg",
+   "url": "https://www.discogs.com/release/1386640-Lokomotiv-Konkret-Lokomotiv-Konkret",
+   "source": "Discogs"
+  }
  },
  {
   "id": 107,
   "artist": "LaDonna Smith & Davey Williams",
   "album": "Direct Waves",
-  "meta": null
+  "meta": {
+   "year": "1980",
+   "label": "Trans Museq",
+   "catno": "transmuseq 5",
+   "format": "Vinyl, LP",
+   "country": "US",
+   "cover": "https://i.discogs.com/S8g5f5E3LCDD3BksvAOPpdoBshD6-pp5msqeS49YBbE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjE3/Mi0xNTU5MDA1OTQ3/LTQwOTMuanBlZw.jpeg",
+   "url": "https://www.discogs.com/release/762172-LaDonna-Smith-Davey-Williams-Direct-Waves",
+   "source": "Discogs"
+  }
  },
  {
   "id": 108,
   "artist": "Vario II",
   "album": "Vario II",
-  "meta": null
+  "meta": {
+   "year": "1980",
+   "label": "Moers Music",
+   "catno": "momu 01084",
+   "format": "Vinyl, LP",
+   "country": "Germany",
+   "cover": "https://i.discogs.com/rV4uAnlKqkFIa-A1sQIM-G42BlcUEbmeNQwrKUrmM1Q/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODY0/Ny0xMTYyOTk3MjA1/LmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/828647-Vario-II-Vario-II",
+   "source": "Discogs"
+  }
  },
  {
   "id": 109,
   "artist": "John Zorn",
   "album": "Pool",
-  "meta": null
+  "meta": {
+   "year": "1980",
+   "label": "Parachute",
+   "catno": "POO 11/12",
+   "format": "Vinyl, LP, Album",
+   "country": "US",
+   "cover": "https://i.discogs.com/icFCKkRdZq4x05QJnXG7FSkCedi_obXfX6st02mAyII/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTMw/OTctMTU2NTU1MjE3/OS0yNjcxLmpwZWc.jpeg",
+   "url": "https://www.discogs.com/release/1313097-John-Zorn-Pool",
+   "source": "Discogs"
+  }
  }
 ]
