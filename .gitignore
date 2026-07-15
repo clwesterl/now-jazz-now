@@ -1,0 +1,6 @@
+.DS_Store
+.env
+token.txt
+__pycache__/
+*.pyc
+njn.docx

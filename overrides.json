@@ -1,0 +1,6 @@
+{
+  "_comment": "Fix bad Discogs matches here, keyed by record id (as a string). Two forms: pin an exact release with {\"release_id\": 1234567}, or correct the search with {\"artist\": \"...\", \"title\": \"...\"}. Re-run: python3 fetch_discogs.py --force  (or --id N for one). The entries below correct obvious source typos.",
+  "6": {"artist": "Sun Ra", "title": "Saturn"},
+  "11": {"artist": "Jimmy Giuffre", "title": "Free Fall"},
+  "63": {"artist": "Masayuki Takayanagi", "title": "Kaitai Teki Kokan"}
+}

@@ -1,0 +1,656 @@
+[
+ {
+  "id": 1,
+  "artist": "Mary Lou Williams",
+  "album": "Signs of the Zodiac Vol. I",
+  "meta": null
+ },
+ {
+  "id": 2,
+  "artist": "Mary Lou Williams",
+  "album": "Signs of the Zodiac Vol. II",
+  "meta": null
+ },
+ {
+  "id": 3,
+  "artist": "Stan Kenton",
+  "album": "City of Glass",
+  "meta": null
+ },
+ {
+  "id": 4,
+  "artist": "Charles Mingus & Spaulding Givens",
+  "album": "Strings & Keys",
+  "meta": null
+ },
+ {
+  "id": 5,
+  "artist": "Lennie Tristano",
+  "album": "Classics In Jazz: The Capitol Session",
+  "meta": null
+ },
+ {
+  "id": 6,
+  "artist": "Le Sun-Ra and His Arkistra",
+  "album": "\"Saturn\"/\"Call For All Demons\"",
+  "meta": null
+ },
+ {
+  "id": 7,
+  "artist": "Cecil Taylor",
+  "album": "Jazz Advance",
+  "meta": null
+ },
+ {
+  "id": 8,
+  "artist": "Albert Ayler",
+  "album": "Spiritual Unity",
+  "meta": null
+ },
+ {
+  "id": 9,
+  "artist": "Eric Dolphy & Ron Carter",
+  "album": "Esoteric Sound Studios Acetate",
+  "meta": null
+ },
+ {
+  "id": 10,
+  "artist": "Ornette Coleman Double Quartet",
+  "album": "Free Jazz",
+  "meta": null
+ },
+ {
+  "id": 11,
+  "artist": "Jimmy Giufffre",
+  "album": "Free Fall",
+  "meta": null
+ },
+ {
+  "id": 12,
+  "artist": "Giorgio Gaslini",
+  "album": "Oltre",
+  "meta": null
+ },
+ {
+  "id": 13,
+  "artist": "Prince Lasha/Sonny Simmons/Clifford Jordan/Don Cherry",
+  "album": "It Is Revealed",
+  "meta": null
+ },
+ {
+  "id": 14,
+  "artist": "Tom Prehn Qvartet",
+  "album": "Axiom",
+  "meta": null
+ },
+ {
+  "id": 15,
+  "artist": "Sonny Rollins",
+  "album": "Our Man In Jazz",
+  "meta": null
+ },
+ {
+  "id": 16,
+  "artist": "New York Contemporary Five",
+  "album": "Recorded 'Live' At Jazzhus Montmartre Vol. 1",
+  "meta": null
+ },
+ {
+  "id": 17,
+  "artist": "New York Contemporary Five",
+  "album": "Recorded 'Live' At Jazzhus Montmartre Vol. 2",
+  "meta": null
+ },
+ {
+  "id": 18,
+  "artist": "Bengt Nordstrom",
+  "album": "Natural Music",
+  "meta": null
+ },
+ {
+  "id": 19,
+  "artist": "Paul Bley Quintet",
+  "album": "Barrage",
+  "meta": null
+ },
+ {
+  "id": 20,
+  "artist": "The Contemporary Jazz Quintet",
+  "album": "Action",
+  "meta": null
+ },
+ {
+  "id": 21,
+  "artist": "Sunny Murray",
+  "album": "Sonny's Time Now",
+  "meta": null
+ },
+ {
+  "id": 22,
+  "artist": "New York Art Quartet",
+  "album": "New York Art Quartet",
+  "meta": null
+ },
+ {
+  "id": 23,
+  "artist": "François Tusques",
+  "album": "Free Jazz",
+  "meta": null
+ },
+ {
+  "id": 24,
+  "artist": "John Coltrane",
+  "album": "Meditations",
+  "meta": null
+ },
+ {
+  "id": 25,
+  "artist": "Sun Ra and His Myth Arkestra",
+  "album": "When Angels Speak of Love",
+  "meta": null
+ },
+ {
+  "id": 26,
+  "artist": "Roscoe Mitchell",
+  "album": "Sound",
+  "meta": null
+ },
+ {
+  "id": 27,
+  "artist": "Don Pullen & Milford Graves",
+  "album": "In Concert At Yale University",
+  "meta": null
+ },
+ {
+  "id": 28,
+  "artist": "Hugh Steinmetz",
+  "album": "Nu!",
+  "meta": null
+ },
+ {
+  "id": 29,
+  "artist": "Patty Waters",
+  "album": "College Tour",
+  "meta": null
+ },
+ {
+  "id": 30,
+  "artist": "Barney Wilen",
+  "album": "Zodiac",
+  "meta": null
+ },
+ {
+  "id": 31,
+  "artist": "Don Cherry",
+  "album": "Where Is Brooklyn?",
+  "meta": null
+ },
+ {
+  "id": 32,
+  "artist": "Gato Barbieri",
+  "album": "In Search of the Mystery",
+  "meta": null
+ },
+ {
+  "id": 33,
+  "artist": "Steve Lacy",
+  "album": "The Forest and the Zoo",
+  "meta": null
+ },
+ {
+  "id": 34,
+  "artist": "Alexander Von Schlippenbach",
+  "album": "Globe Unity",
+  "meta": null
+ },
+ {
+  "id": 35,
+  "artist": "Charles Tyler",
+  "album": "Eastern Man Alone",
+  "meta": null
+ },
+ {
+  "id": 36,
+  "artist": "Clifford Thornton New Art Ensemble",
+  "album": "Freedom & Unity",
+  "meta": null
+ },
+ {
+  "id": 37,
+  "artist": "Han Bennink & Willem Breuker",
+  "album": "New Acoustic Swing Duo",
+  "meta": null
+ },
+ {
+  "id": 38,
+  "artist": "Lester Bowie",
+  "album": "Numbers 1 & 2",
+  "meta": null
+ },
+ {
+  "id": 39,
+  "artist": "Peter Brötzmann Octet",
+  "album": "Machine Gun",
+  "meta": null
+ },
+ {
+  "id": 40,
+  "artist": "The Jazz Composer's Orchestra",
+  "album": "The Jazz Composer's Orchestra",
+  "meta": null
+ },
+ {
+  "id": 41,
+  "artist": "Han Bennink/Misha Mengelberg/John Tchicai",
+  "album": "Instant Composer's Pool",
+  "meta": null
+ },
+ {
+  "id": 42,
+  "artist": "Spontaneous Music Ensemble",
+  "album": "Karyobin",
+  "meta": null
+ },
+ {
+  "id": 43,
+  "artist": "Marzette Watts",
+  "album": "The Marzette Watts Ensemble",
+  "meta": null
+ },
+ {
+  "id": 44,
+  "artist": "Black Unity Trio",
+  "album": "Al-Fatihah",
+  "meta": null
+ },
+ {
+  "id": 45,
+  "artist": "Marion Brown",
+  "album": "Le Temps Fou",
+  "meta": null
+ },
+ {
+  "id": 46,
+  "artist": "Dave Burrell",
+  "album": "Echo",
+  "meta": null
+ },
+ {
+  "id": 47,
+  "artist": "Togashi Masahiko Quartet",
+  "album": "We Now Create: Music For Strings, Winds, and Percussions",
+  "meta": null
+ },
+ {
+  "id": 48,
+  "artist": "Joe McPhee Quartet",
+  "album": "Underground Railroad",
+  "meta": null
+ },
+ {
+  "id": 49,
+  "artist": "Michel Portal",
+  "album": "Our Meanings and Our Feelings",
+  "meta": null
+ },
+ {
+  "id": 50,
+  "artist": "Sonny Sharrock",
+  "album": "Black Woman",
+  "meta": null
+ },
+ {
+  "id": 51,
+  "artist": "Archie Shepp",
+  "album": "Blasé",
+  "meta": null
+ },
+ {
+  "id": 52,
+  "artist": "Alan Shorter",
+  "album": "Orgasm",
+  "meta": null
+ },
+ {
+  "id": 53,
+  "artist": "Horace Tapscott Quintet",
+  "album": "The Giant Is Awakened",
+  "meta": null
+ },
+ {
+  "id": 54,
+  "artist": "John Tchicai & Cadentia Nova Danica",
+  "album": "Afrodisiaca",
+  "meta": null
+ },
+ {
+  "id": 55,
+  "artist": "Yosuke Yamashita Trio",
+  "album": "Dancing",
+  "meta": null
+ },
+ {
+  "id": 56,
+  "artist": "GL Unit",
+  "album": "Orangatang!",
+  "meta": null
+ },
+ {
+  "id": 57,
+  "artist": "Jimmy Lyons",
+  "album": "Other Afternoons",
+  "meta": null
+ },
+ {
+  "id": 58,
+  "artist": "Friendship Next of Kin",
+  "album": "Facets of the Universe",
+  "meta": null
+ },
+ {
+  "id": 59,
+  "artist": "Cairo Free Jazz Ensemble",
+  "album": "Heliopolis",
+  "meta": null
+ },
+ {
+  "id": 60,
+  "artist": "Ric Colbeck Quartet",
+  "album": "The Sun Is Coming Up",
+  "meta": null
+ },
+ {
+  "id": 61,
+  "artist": "Full Moon Ensemble",
+  "album": "Crowded With Loneliness",
+  "meta": null
+ },
+ {
+  "id": 62,
+  "artist": "Jan Garbarek Quartet",
+  "album": "Afric Pepperbird",
+  "meta": null
+ },
+ {
+  "id": 63,
+  "artist": "Masayuki Takayanagi/Kaoru Abe",
+  "album": "解体的交感 Kaitai Teki Kōkan",
+  "meta": null
+ },
+ {
+  "id": 64,
+  "artist": "Tony Oxley",
+  "album": "4 Compositions For Sextet",
+  "meta": null
+ },
+ {
+  "id": 65,
+  "artist": "Evan Parker/Derek Bailey/Han Bennink",
+  "album": "Topography of the Lungs",
+  "meta": null
+ },
+ {
+  "id": 66,
+  "artist": "Mario Schiano Trio",
+  "album": "If Not Ecstatic We Refund",
+  "meta": null
+ },
+ {
+  "id": 67,
+  "artist": "Edward Vesala Trio",
+  "album": "Nana",
+  "meta": null
+ },
+ {
+  "id": 68,
+  "artist": "Abdul Hannan",
+  "album": "The Third World",
+  "meta": null
+ },
+ {
+  "id": 69,
+  "artist": "Art Ensemble of Chicago",
+  "album": "Phase One",
+  "meta": null
+ },
+ {
+  "id": 70,
+  "artist": "Anthony Braxton",
+  "album": "For Alto",
+  "meta": null
+ },
+ {
+  "id": 71,
+  "artist": "Alan Silva and the Celestrial Communications Orchestra",
+  "album": "Seasons",
+  "meta": null
+ },
+ {
+  "id": 72,
+  "artist": "Masahiko Togashi & Mototeru Takagi",
+  "album": "Isolation",
+  "meta": null
+ },
+ {
+  "id": 73,
+  "artist": "Masahiko Sato Trio",
+  "album": "In Berlin - Penetration",
+  "meta": null
+ },
+ {
+  "id": 74,
+  "artist": "London Jazz Composer's Orchestra",
+  "album": "Ode",
+  "meta": null
+ },
+ {
+  "id": 75,
+  "artist": "Julius Hemphill",
+  "album": "Dogon A.D.",
+  "meta": null
+ },
+ {
+  "id": 76,
+  "artist": "Noah Howard",
+  "album": "The Black Ark",
+  "meta": null
+ },
+ {
+  "id": 77,
+  "artist": "The J.R. Mitchell/Byard Lancaster Experience",
+  "album": "Live At Manchester College",
+  "meta": null
+ },
+ {
+  "id": 78,
+  "artist": "Evan Parker & Paul Lytton",
+  "album": "Collective Calls (Urban) (Two Microphones)",
+  "meta": null
+ },
+ {
+  "id": 79,
+  "artist": "Peter Kowald Quintet",
+  "album": "Peter Kowald Quintet",
+  "meta": null
+ },
+ {
+  "id": 80,
+  "artist": "Kaoru Abe",
+  "album": "1972 Winter",
+  "meta": null
+ },
+ {
+  "id": 81,
+  "artist": "Frank Wright Quartet",
+  "album": "Church Number Nine",
+  "meta": null
+ },
+ {
+  "id": 82,
+  "artist": "Rashied Ali & Frank Lowe",
+  "album": "Duo Exchange",
+  "meta": null
+ },
+ {
+  "id": 83,
+  "artist": "Black Artists Group",
+  "album": "In Paris, Aries 1973",
+  "meta": null
+ },
+ {
+  "id": 84,
+  "artist": "Rudiger Carl",
+  "album": "King Alcohol (New Version)",
+  "meta": null
+ },
+ {
+  "id": 85,
+  "artist": "Emergency",
+  "album": "Homage To Peace",
+  "meta": null
+ },
+ {
+  "id": 86,
+  "artist": "Dewey Redman",
+  "album": "The Ear of the Behearer",
+  "meta": null
+ },
+ {
+  "id": 87,
+  "artist": "Ray Russell",
+  "album": "Secret Asylum",
+  "meta": null
+ },
+ {
+  "id": 88,
+  "artist": "Alexander Von Schlippenbach Trio",
+  "album": "Pakistani Pomade",
+  "meta": null
+ },
+ {
+  "id": 89,
+  "artist": "Cecil Taylor Unit",
+  "album": "Akisakila",
+  "meta": null
+ },
+ {
+  "id": 90,
+  "artist": "The Phil Musra Group",
+  "album": "Creator Spaces",
+  "meta": null
+ },
+ {
+  "id": 91,
+  "artist": "Howard Riley",
+  "album": "Synopsis",
+  "meta": null
+ },
+ {
+  "id": 92,
+  "artist": "Jeanne Lee",
+  "album": "Conspiracy",
+  "meta": null
+ },
+ {
+  "id": 93,
+  "artist": "Mount Everest Trio",
+  "album": "Waves For Albert Ayler",
+  "meta": null
+ },
+ {
+  "id": 94,
+  "artist": "Toshiyuki Tsuchitori & Mototeru Takagi",
+  "album": "Origination",
+  "meta": null
+ },
+ {
+  "id": 95,
+  "artist": "Schweizer/Carl/Moholo",
+  "album": "Messer",
+  "meta": null
+ },
+ {
+  "id": 96,
+  "artist": "Milford Graves",
+  "album": "Babi",
+  "meta": null
+ },
+ {
+  "id": 97,
+  "artist": "Ensemble Muntu",
+  "album": "First Feeding",
+  "meta": null
+ },
+ {
+  "id": 98,
+  "artist": "Percussive Unity",
+  "album": "Only Change Is Unchanging - Percussive Unity Live",
+  "meta": null
+ },
+ {
+  "id": 99,
+  "artist": "Arthur Doyle Plus 4",
+  "album": "Alabama Feeling",
+  "meta": null
+ },
+ {
+  "id": 100,
+  "artist": "Louis Moholo Octet",
+  "album": "Spirits Rejoice!",
+  "meta": null
+ },
+ {
+  "id": 101,
+  "artist": "David S. Ware",
+  "album": "From Silence To Music",
+  "meta": null
+ },
+ {
+  "id": 102,
+  "artist": "Polly Bradfield",
+  "album": "Solo Violin Improvisations",
+  "meta": null
+ },
+ {
+  "id": 103,
+  "artist": "Andrew Cyrille/Jeanne Lee/Jimmy Lyons",
+  "album": "Nuba",
+  "meta": null
+ },
+ {
+  "id": 104,
+  "artist": "Feminist Improvising Group",
+  "album": "Feminist Improvising Group",
+  "meta": null
+ },
+ {
+  "id": 105,
+  "artist": "Borbetomagus",
+  "album": "Borbetomagus",
+  "meta": null
+ },
+ {
+  "id": 106,
+  "artist": "Lokomotiv Konkret",
+  "album": "Lokomotiv Konkret",
+  "meta": null
+ },
+ {
+  "id": 107,
+  "artist": "LaDonna Smith & Davey Williams",
+  "album": "Direct Waves",
+  "meta": null
+ },
+ {
+  "id": 108,
+  "artist": "Vario II",
+  "album": "Vario II",
+  "meta": null
+ },
+ {
+  "id": 109,
+  "artist": "John Zorn",
+  "album": "Pool",
+  "meta": null
+ }
+]

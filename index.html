@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Now Jazz Now — Record Checklist</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#e9e5da;
+    --card:#dfdacb;
+    --ink:#14140f;
+    --stamp:#c0362c;
+    --ribbon:#3a4a6b;
+    --rule:rgba(20,20,15,.22);
+    --rule-soft:rgba(20,20,15,.10);
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+    font-size:14px;line-height:1.45;-webkit-font-smoothing:antialiased;
+    background-image:radial-gradient(rgba(20,20,15,.045) 1px,transparent 1px);
+    background-size:3px 3px;
+  }
+  .display{font-family:"Archivo Black","Archivo",Impact,sans-serif;font-weight:400;letter-spacing:-.01em;text-transform:uppercase}
+  button,input,select{font:inherit;color:inherit}
+  button{cursor:pointer}
+  a{color:var(--ribbon)}
+  :focus-visible{outline:2px solid var(--stamp);outline-offset:2px}
+
+  header{border-bottom:3px solid var(--ink);padding:18px 20px 12px;display:flex;flex-wrap:wrap;gap:16px;align-items:flex-end;justify-content:space-between}
+  .title{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+  .title h1{margin:0;font-size:clamp(26px,4vw,42px);line-height:.95}
+  .title .sub{font-size:11px;letter-spacing:.18em;text-transform:uppercase;opacity:.6}
+  .counter{border:2px solid var(--stamp);color:var(--stamp);padding:6px 12px;transform:rotate(-1.4deg);font-size:12px;letter-spacing:.12em;white-space:nowrap;box-shadow:inset 0 0 0 1px rgba(192,54,44,.25)}
+  .counter b{font-size:20px;font-family:"Archivo Black",sans-serif;letter-spacing:0}
+
+  .bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:10px 20px;border-bottom:1px solid var(--rule)}
+  .bar input[type=search]{background:transparent;border:1px solid var(--rule);padding:7px 10px;width:min(280px,100%)}
+  .seg{display:flex;border:1px solid var(--rule)}
+  .seg button{background:transparent;border:0;padding:7px 12px;font-size:11px;letter-spacing:.1em;text-transform:uppercase}
+  .seg button[aria-pressed=true]{background:var(--ink);color:var(--paper)}
+  .ghost{background:transparent;border:1px solid var(--rule);padding:7px 12px;font-size:11px;letter-spacing:.1em;text-transform:uppercase}
+  .ghost:hover{background:var(--card)}
+  .spacer{flex:1}
+
+  main{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:0}
+  .list{border-right:1px solid var(--rule)}
+  .pane{position:sticky;top:0;align-self:start;height:100dvh;overflow:auto;padding:22px 24px 60px}
+
+  .row{display:grid;grid-template-columns:44px 1fr auto;gap:12px;align-items:center;padding:9px 16px 9px 12px;border-bottom:1px solid var(--rule-soft);cursor:pointer;position:relative;background:transparent}
+  .row:hover{background:var(--card)}
+  .row[aria-current=true]{background:var(--card);box-shadow:inset 4px 0 0 var(--ink)}
+  .row .idx{font-size:11px;opacity:.45;font-variant-numeric:tabular-nums}
+  .row.owned .idx{color:var(--stamp);opacity:1}
+  .row .artist{font-size:11px;letter-spacing:.08em;text-transform:uppercase;opacity:.62}
+  .row .album{font-family:"Archivo Black",sans-serif;font-size:15px;line-height:1.2;text-transform:none;letter-spacing:0}
+  .row.owned .album{color:var(--stamp)}
+  .tick{width:22px;height:22px;border:2px solid var(--ink);background:transparent;display:grid;place-items:center;padding:0;flex:none}
+  .tick svg{width:14px;height:14px;opacity:0;transform:scale(.4) rotate(-12deg);transition:transform .18s cubic-bezier(.2,1.6,.4,1),opacity .12s}
+  .row.owned .tick{border-color:var(--stamp)}
+  .row.owned .tick svg{opacity:1;transform:scale(1) rotate(-6deg)}
+  .row.owned .tick svg path{stroke:var(--stamp)}
+  .thumb{width:34px;height:34px;object-fit:cover;border:1px solid var(--rule);background:var(--card);flex:none;grid-column:1;justify-self:center}
+
+  .stamp{position:absolute;right:52px;top:50%;font-family:"Archivo Black",sans-serif;font-size:13px;letter-spacing:.14em;color:var(--stamp);border:2px solid var(--stamp);padding:2px 8px;pointer-events:none;opacity:0;mix-blend-mode:multiply;transform:translateY(-50%) rotate(-9deg) scale(2.2)}
+  .row.owned .stamp{opacity:.85;transform:translateY(-50%) rotate(-9deg) scale(1);transition:opacity .1s ease-out,transform .22s cubic-bezier(.16,1.5,.4,1)}
+  @media (prefers-reduced-motion:reduce){.row.owned .stamp,.row .tick svg{transition:none}}
+
+  .empty{opacity:.5;font-size:12px;letter-spacing:.06em;text-transform:uppercase;padding-top:40px}
+  .art{width:100%;aspect-ratio:1;background:var(--card);border:1px solid var(--rule);display:grid;place-items:center;overflow:hidden;margin-bottom:18px}
+  .art img{width:100%;height:100%;object-fit:cover;display:block}
+  .art .none{font-size:10px;letter-spacing:.16em;text-transform:uppercase;opacity:.4;text-align:center;padding:12px}
+  .pane h2{margin:0 0 2px;font-size:clamp(20px,2.4vw,30px);line-height:1.05;font-family:"Archivo Black",sans-serif;text-transform:none}
+  .pane .by{font-size:12px;letter-spacing:.1em;text-transform:uppercase;opacity:.65;margin-bottom:16px}
+  dl{display:grid;grid-template-columns:88px 1fr;gap:6px 12px;margin:0 0 18px;border-top:1px solid var(--rule);padding-top:14px}
+  dt{font-size:10px;letter-spacing:.14em;text-transform:uppercase;opacity:.5;padding-top:2px}
+  dd{margin:0;font-size:13px}
+  .yr{font-family:"Archivo Black",sans-serif;font-size:26px;line-height:1}
+  .note{font-size:11px;opacity:.6;margin:10px 0 14px;line-height:1.5}
+  .links{display:flex;gap:14px;flex-wrap:wrap;font-size:11px;letter-spacing:.08em;text-transform:uppercase;margin-top:14px}
+  .own-btn{width:100%;padding:12px;border:2px solid var(--ink);background:transparent;font-family:"Archivo Black",sans-serif;font-size:14px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:18px}
+  .own-btn.on{background:var(--stamp);border-color:var(--stamp);color:var(--paper)}
+
+  dialog{border:3px solid var(--ink);background:var(--paper);color:var(--ink);max-width:520px;width:92vw;padding:20px}
+  dialog::backdrop{background:rgba(20,20,15,.55)}
+  dialog h3{margin:0 0 6px;font-family:"Archivo Black",sans-serif;font-size:18px;text-transform:uppercase}
+  dialog p{font-size:12px;opacity:.7;margin:0 0 12px}
+  dialog textarea{width:100%;background:transparent;border:1px solid var(--rule);padding:8px;font-family:inherit;font-size:12px}
+  .actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+  .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--paper);padding:9px 16px;font-size:11px;letter-spacing:.1em;text-transform:uppercase;opacity:0;pointer-events:none;transition:opacity .2s;z-index:50}
+  .toast.show{opacity:1}
+
+  @media(max-width:900px){
+    main{grid-template-columns:1fr}
+    .list{border-right:0;order:2}
+    .pane{position:static;height:auto;border-bottom:3px solid var(--ink);order:1;padding:18px 16px 24px}
+    .pane.blank{display:none}
+    .art{max-width:260px}
+    .stamp{right:44px;font-size:11px}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="title">
+    <h1 class="display">Now Jazz Now</h1>
+    <span class="sub" id="sub">Loading…</span>
+  </div>
+  <div class="counter display" id="counter"><b id="cnum">0</b> / <span id="ctot">0</span> in collection</div>
+</header>
+
+<div class="bar">
+  <input type="search" id="q" placeholder="Filter artist or title…" aria-label="Filter records">
+  <div class="seg" role="group" aria-label="Show">
+    <button data-f="all" aria-pressed="true">All</button>
+    <button data-f="owned" aria-pressed="false">Owned</button>
+    <button data-f="missing" aria-pressed="false">Missing</button>
+  </div>
+  <span class="spacer"></span>
+  <button class="ghost" id="artBtn" aria-pressed="false">Thumbnails</button>
+  <button class="ghost" id="exportBtn">Export</button>
+  <button class="ghost" id="importBtn">Import</button>
+</div>
+
+<main>
+  <div class="list" id="list"><p class="empty" style="padding:30px 16px">Loading records…</p></div>
+  <aside class="pane blank" id="pane"></aside>
+</main>
+
+<dialog id="ioDlg">
+  <h3 id="ioTitle">Export</h3>
+  <p id="ioNote"></p>
+  <textarea id="ioText" rows="8" spellcheck="false"></textarea>
+  <div class="actions">
+    <button class="ghost" id="ioAction">Copy</button>
+    <button class="ghost" id="ioClose">Close</button>
+  </div>
+</dialog>
+
+<div class="toast" id="toast"></div>
+
+<script>
+/* ---------- storage (memory fallback if blocked) ---------- */
+const mem = {};
+const store = {
+  get(k, d){ try{ const v = localStorage.getItem(k); return v ? JSON.parse(v) : (k in mem ? mem[k] : d); }catch(e){ return (k in mem) ? mem[k] : d; } },
+  set(k, v){ mem[k] = v; try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} }
+};
+const K = { owned:'njn:owned' };
+
+let RECORDS = [];
+let owned = store.get(K.owned, {});
+let filter = 'all', term = '', selected = null, showArt = false;
+
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const pad = n => String(n).padStart(3,'0');
+let toastTimer;
+function toast(msg){ const t=$('#toast'); t.textContent=msg; t.classList.add('show'); clearTimeout(toastTimer); toastTimer=setTimeout(()=>t.classList.remove('show'),1800); }
+
+/* ---------- list ---------- */
+function visible(){
+  return RECORDS.filter(r => {
+    if (filter === 'owned' && !owned[r.id]) return false;
+    if (filter === 'missing' && owned[r.id]) return false;
+    if (term && !(r.artist + ' ' + r.album).toLowerCase().includes(term)) return false;
+    return true;
+  });
+}
+function renderList(){
+  const rows = visible().map(r => {
+    const m = r.meta;
+    const lead = (showArt && m && m.cover)
+      ? `<img class="thumb" src="${esc(m.cover)}" alt="" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'idx',textContent:'${pad(r.id)}'}))">`
+      : `<span class="idx">${pad(r.id)}</span>`;
+    return `
+    <div class="row ${owned[r.id]?'owned':''}" data-id="${r.id}" role="button" tabindex="0"
+         aria-current="${selected===r.id}" aria-label="${esc(r.artist)} — ${esc(r.album)}">
+      ${lead}
+      <span>
+        <span class="artist">${esc(r.artist)}</span><br>
+        <span class="album">${esc(r.album)}</span>
+      </span>
+      <span class="stamp">Owned</span>
+      <button class="tick" data-tick="${r.id}" aria-label="Mark ${esc(r.album)} as owned" aria-pressed="${!!owned[r.id]}">
+        <svg viewBox="0 0 24 24" fill="none"><path d="M4 13l5 5L20 6" stroke="currentColor" stroke-width="3.5" stroke-linecap="square"/></svg>
+      </button>
+    </div>`;
+  }).join('');
+  $('#list').innerHTML = rows || `<p class="empty" style="padding:30px 16px">No records match that filter.</p>`;
+  $('#cnum').textContent = Object.values(owned).filter(Boolean).length;
+}
+
+function toggle(id){
+  owned[id] = !owned[id];
+  if (!owned[id]) delete owned[id];
+  store.set(K.owned, owned);
+  renderList();
+  if (selected === id) renderPane();
+}
+
+/* ---------- detail pane ---------- */
+function renderPane(){
+  const pane = $('#pane');
+  if (selected == null){ pane.classList.add('blank'); pane.innerHTML=''; return; }
+  pane.classList.remove('blank');
+  const r = RECORDS.find(x => x.id === selected);
+  const m = r.meta;
+  const dq = encodeURIComponent(r.artist + ' ' + r.album);
+
+  const art = m && m.cover
+    ? `<img src="${esc(m.cover)}" alt="Cover of ${esc(r.album)}" onerror="this.parentNode.innerHTML='&lt;span class=none&gt;Cover unavailable&lt;/span&gt;'">`
+    : `<span class="none">${m ? 'No cover on file' : 'Not fetched yet'}</span>`;
+
+  const facts = m ? `
+    <dl>
+      <dt>Year</dt><dd class="yr">${esc(m.year || '—')}</dd>
+      <dt>Label</dt><dd>${esc(m.label || '—')}</dd>
+      <dt>Catalog</dt><dd>${esc(m.catno || '—')}</dd>
+      <dt>Format</dt><dd>${esc(m.format || '—')}</dd>
+      <dt>Country</dt><dd>${esc(m.country || '—')}</dd>
+    </dl>`
+    : `<p class="note">No metadata yet. Run <b>python3 fetch_discogs.py</b> locally to pull artwork, year, label and catalog number from Discogs, then commit <b>data.json</b>. If this record matched the wrong pressing, add an entry to <b>overrides.json</b> and re-run.</p>`;
+
+  pane.innerHTML = `
+    <button class="own-btn ${owned[r.id]?'on':''}" id="ownBtn">${owned[r.id] ? '✓ In collection' : 'Mark as owned'}</button>
+    <div class="art">${art}</div>
+    <h2>${esc(r.album)}</h2>
+    <div class="by">${pad(r.id)} · ${esc(r.artist)}</div>
+    ${facts}
+    <div class="links">
+      ${m && m.url ? `<a href="${esc(m.url)}" target="_blank" rel="noopener">This release ↗</a>` : ''}
+      <a href="https://www.discogs.com/search/?q=${dq}&type=release" target="_blank" rel="noopener">Discogs search ↗</a>
+    </div>`;
+  $('#ownBtn').onclick = () => toggle(r.id);
+}
+
+function select(id){ selected = id; renderList(); renderPane(); }
+
+/* ---------- events ---------- */
+$('#list').addEventListener('click', e => {
+  const tick = e.target.closest('[data-tick]');
+  if (tick){ e.stopPropagation(); toggle(+tick.dataset.tick); return; }
+  const row = e.target.closest('.row');
+  if (row) select(+row.dataset.id);
+});
+$('#list').addEventListener('keydown', e => {
+  const row = e.target.closest('.row'); if (!row) return;
+  if (e.key === 'Enter'){ e.preventDefault(); select(+row.dataset.id); }
+  if (e.key === ' '){ e.preventDefault(); toggle(+row.dataset.id); }
+});
+$('#q').addEventListener('input', e => { term = e.target.value.toLowerCase().trim(); renderList(); });
+document.querySelectorAll('.seg button').forEach(b => b.onclick = () => {
+  filter = b.dataset.f;
+  document.querySelectorAll('.seg button').forEach(x => x.setAttribute('aria-pressed', x === b));
+  renderList();
+});
+$('#artBtn').onclick = () => {
+  showArt = !showArt;
+  $('#artBtn').setAttribute('aria-pressed', showArt);
+  $('#artBtn').style.background = showArt ? 'var(--ink)' : '';
+  $('#artBtn').style.color = showArt ? 'var(--paper)' : '';
+  renderList();
+};
+
+/* export / import owned state */
+let ioMode = 'export';
+$('#exportBtn').onclick = () => {
+  ioMode = 'export';
+  $('#ioTitle').textContent = 'Export checklist';
+  $('#ioNote').textContent = 'Your owned marks live in this browser. Copy this to back them up or move to another device.';
+  $('#ioAction').textContent = 'Copy';
+  $('#ioText').value = JSON.stringify({ owned }, null, 2);
+  $('#ioDlg').showModal();
+};
+$('#importBtn').onclick = () => {
+  ioMode = 'import';
+  $('#ioTitle').textContent = 'Import checklist';
+  $('#ioNote').textContent = 'Paste a previously exported checklist. This replaces your current owned marks.';
+  $('#ioAction').textContent = 'Import';
+  $('#ioText').value = '';
+  $('#ioDlg').showModal();
+};
+$('#ioAction').onclick = async () => {
+  if (ioMode === 'export'){
+    try{ await navigator.clipboard.writeText($('#ioText').value); toast('Copied'); }
+    catch(e){ $('#ioText').select(); toast('Press ⌘C to copy'); }
+    return;
+  }
+  try{
+    const d = JSON.parse($('#ioText').value);
+    owned = d.owned || {};
+    store.set(K.owned, owned);
+    $('#ioDlg').close(); selected = null; renderList(); renderPane();
+    toast('Imported');
+  }catch(e){ toast('That is not valid JSON'); }
+};
+$('#ioClose').onclick = () => $('#ioDlg').close();
+
+/* ---------- boot ---------- */
+fetch('data.json', { cache: 'no-store' })
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(data => {
+    RECORDS = data;
+    const from = data.reduce((a,r)=>{const y=r.meta&&parseInt(r.meta.year);return y&&y<a?y:a;}, 9999);
+    const to   = data.reduce((a,r)=>{const y=r.meta&&parseInt(r.meta.year);return y&&y>a?y:a;}, 0);
+    $('#sub').textContent = `${data.length} records` + (from<9999 ? ` · ${from}–${to}` : '');
+    $('#ctot').textContent = data.length;
+    renderList(); renderPane();
+  })
+  .catch(err => {
+    $('#list').innerHTML = `<p class="empty" style="padding:30px 16px">Couldn’t load data.json (${esc(err.message)}). If you’re opening this file directly from disk, use a local server (<b>python3 -m http.server</b>) or view it on GitHub Pages — browsers block fetch() from file:// URLs.</p>`;
+  });
+</script>
+</body>
+</html>
